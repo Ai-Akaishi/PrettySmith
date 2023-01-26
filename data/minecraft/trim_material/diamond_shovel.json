@@ -1,0 +1,9 @@
+{
+  "asset_name": "diamond_shovel",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.diamond_shovel"
+  },
+  "ingredient": "minecraft:diamond_shovel",
+  "item_model_index": 1.0
+}

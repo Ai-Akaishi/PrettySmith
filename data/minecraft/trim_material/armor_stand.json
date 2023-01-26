@@ -1,0 +1,9 @@
+{
+  "asset_name": "armor_stand",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.armor_stand"
+  },
+  "ingredient": "minecraft:armor_stand",
+  "item_model_index": 1.0
+}

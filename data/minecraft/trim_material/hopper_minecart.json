@@ -1,0 +1,9 @@
+{
+  "asset_name": "hopper_minecart",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.hopper_minecart"
+  },
+  "ingredient": "minecraft:hopper_minecart",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:chiseled_stone_bricks",
+  "description": {
+    "translate": "trim_pattern.minecraft.chiseled_stone_bricks"
+  },
+  "template_item": "minecraft:chiseled_stone_bricks"
+}

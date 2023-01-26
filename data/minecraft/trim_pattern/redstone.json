@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:redstone",
+  "description": {
+    "translate": "trim_pattern.minecraft.redstone"
+  },
+  "template_item": "minecraft:redstone"
+}

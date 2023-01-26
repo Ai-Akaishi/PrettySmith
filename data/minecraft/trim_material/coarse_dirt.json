@@ -1,0 +1,9 @@
+{
+  "asset_name": "coarse_dirt",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.coarse_dirt"
+  },
+  "ingredient": "minecraft:coarse_dirt",
+  "item_model_index": 1.0
+}

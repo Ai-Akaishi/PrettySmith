@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:wheat",
+  "description": {
+    "translate": "trim_pattern.minecraft.wheat"
+  },
+  "template_item": "minecraft:wheat"
+}

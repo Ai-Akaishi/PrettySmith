@@ -1,0 +1,9 @@
+{
+  "asset_name": "daylight_detector",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.daylight_detector"
+  },
+  "ingredient": "minecraft:daylight_detector",
+  "item_model_index": 1.0
+}

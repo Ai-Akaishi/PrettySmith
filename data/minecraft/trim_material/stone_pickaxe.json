@@ -1,0 +1,9 @@
+{
+  "asset_name": "stone_pickaxe",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.stone_pickaxe"
+  },
+  "ingredient": "minecraft:stone_pickaxe",
+  "item_model_index": 1.0
+}

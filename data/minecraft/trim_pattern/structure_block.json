@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:structure_block",
+  "description": {
+    "translate": "trim_pattern.minecraft.structure_block"
+  },
+  "template_item": "minecraft:structure_block"
+}

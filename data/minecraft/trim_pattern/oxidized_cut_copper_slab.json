@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:oxidized_cut_copper_slab",
+  "description": {
+    "translate": "trim_pattern.minecraft.oxidized_cut_copper_slab"
+  },
+  "template_item": "minecraft:oxidized_cut_copper_slab"
+}

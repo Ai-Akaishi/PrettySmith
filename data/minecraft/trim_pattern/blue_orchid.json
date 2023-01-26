@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:blue_orchid",
+  "description": {
+    "translate": "trim_pattern.minecraft.blue_orchid"
+  },
+  "template_item": "minecraft:blue_orchid"
+}

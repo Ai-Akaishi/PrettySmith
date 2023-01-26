@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:stripped_acacia_log",
+  "description": {
+    "translate": "trim_pattern.minecraft.stripped_acacia_log"
+  },
+  "template_item": "minecraft:stripped_acacia_log"
+}

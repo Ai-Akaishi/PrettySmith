@@ -1,0 +1,9 @@
+{
+  "asset_name": "cooked_beef",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cooked_beef"
+  },
+  "ingredient": "minecraft:cooked_beef",
+  "item_model_index": 1.0
+}

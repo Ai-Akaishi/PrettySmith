@@ -1,0 +1,9 @@
+{
+  "asset_name": "yellow_concrete",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.yellow_concrete"
+  },
+  "ingredient": "minecraft:yellow_concrete",
+  "item_model_index": 1.0
+}

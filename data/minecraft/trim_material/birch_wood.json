@@ -1,0 +1,9 @@
+{
+  "asset_name": "birch_wood",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.birch_wood"
+  },
+  "ingredient": "minecraft:birch_wood",
+  "item_model_index": 1.0
+}

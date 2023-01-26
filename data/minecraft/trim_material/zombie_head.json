@@ -1,0 +1,9 @@
+{
+  "asset_name": "zombie_head",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.zombie_head"
+  },
+  "ingredient": "minecraft:zombie_head",
+  "item_model_index": 1.0
+}

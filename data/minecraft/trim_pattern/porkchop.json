@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:porkchop",
+  "description": {
+    "translate": "trim_pattern.minecraft.porkchop"
+  },
+  "template_item": "minecraft:porkchop"
+}

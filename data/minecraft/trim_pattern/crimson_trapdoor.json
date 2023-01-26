@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:crimson_trapdoor",
+  "description": {
+    "translate": "trim_pattern.minecraft.crimson_trapdoor"
+  },
+  "template_item": "minecraft:crimson_trapdoor"
+}

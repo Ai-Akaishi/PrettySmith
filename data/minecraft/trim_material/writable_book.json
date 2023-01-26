@@ -1,0 +1,9 @@
+{
+  "asset_name": "writable_book",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.writable_book"
+  },
+  "ingredient": "minecraft:writable_book",
+  "item_model_index": 1.0
+}

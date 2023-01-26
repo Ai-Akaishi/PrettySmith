@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:jack_o_lantern",
+  "description": {
+    "translate": "trim_pattern.minecraft.jack_o_lantern"
+  },
+  "template_item": "minecraft:jack_o_lantern"
+}

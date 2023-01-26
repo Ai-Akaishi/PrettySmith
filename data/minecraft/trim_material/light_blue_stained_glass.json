@@ -1,0 +1,9 @@
+{
+  "asset_name": "light_blue_stained_glass",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.light_blue_stained_glass"
+  },
+  "ingredient": "minecraft:light_blue_stained_glass",
+  "item_model_index": 1.0
+}

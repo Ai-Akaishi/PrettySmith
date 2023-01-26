@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:pointed_dripstone",
+  "description": {
+    "translate": "trim_pattern.minecraft.pointed_dripstone"
+  },
+  "template_item": "minecraft:pointed_dripstone"
+}

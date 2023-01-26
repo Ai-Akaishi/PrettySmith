@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:stone_bricks",
+  "description": {
+    "translate": "trim_pattern.minecraft.stone_bricks"
+  },
+  "template_item": "minecraft:stone_bricks"
+}

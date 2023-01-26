@@ -1,0 +1,9 @@
+{
+  "asset_name": "oak_door",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.oak_door"
+  },
+  "ingredient": "minecraft:oak_door",
+  "item_model_index": 1.0
+}

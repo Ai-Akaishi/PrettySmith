@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:filled_map",
+  "description": {
+    "translate": "trim_pattern.minecraft.filled_map"
+  },
+  "template_item": "minecraft:filled_map"
+}

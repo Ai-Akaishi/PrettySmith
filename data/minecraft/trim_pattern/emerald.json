@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:emerald",
+  "description": {
+    "translate": "trim_pattern.minecraft.emerald"
+  },
+  "template_item": "minecraft:emerald"
+}

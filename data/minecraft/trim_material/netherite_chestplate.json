@@ -1,0 +1,9 @@
+{
+  "asset_name": "netherite_chestplate",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.netherite_chestplate"
+  },
+  "ingredient": "minecraft:netherite_chestplate",
+  "item_model_index": 1.0
+}

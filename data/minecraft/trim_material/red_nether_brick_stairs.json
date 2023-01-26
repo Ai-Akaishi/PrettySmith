@@ -1,0 +1,9 @@
+{
+  "asset_name": "red_nether_brick_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.red_nether_brick_stairs"
+  },
+  "ingredient": "minecraft:red_nether_brick_stairs",
+  "item_model_index": 1.0
+}

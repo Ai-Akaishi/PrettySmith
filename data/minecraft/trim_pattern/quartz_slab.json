@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:quartz_slab",
+  "description": {
+    "translate": "trim_pattern.minecraft.quartz_slab"
+  },
+  "template_item": "minecraft:quartz_slab"
+}

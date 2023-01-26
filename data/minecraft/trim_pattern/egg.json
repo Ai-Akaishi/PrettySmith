@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.egg"
+  },
+  "template_item": "minecraft:egg"
+}

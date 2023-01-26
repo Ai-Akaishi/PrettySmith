@@ -1,0 +1,9 @@
+{
+  "asset_name": "music_disc_mall",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.music_disc_mall"
+  },
+  "ingredient": "minecraft:music_disc_mall",
+  "item_model_index": 1.0
+}

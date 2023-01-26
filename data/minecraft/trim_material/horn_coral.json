@@ -1,0 +1,9 @@
+{
+  "asset_name": "horn_coral",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.horn_coral"
+  },
+  "ingredient": "minecraft:horn_coral",
+  "item_model_index": 1.0
+}

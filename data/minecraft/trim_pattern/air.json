@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:air",
+  "description": {
+    "translate": "trim_pattern.minecraft.air"
+  },
+  "template_item": "minecraft:air"
+}

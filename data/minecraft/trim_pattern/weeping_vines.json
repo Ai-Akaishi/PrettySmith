@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:weeping_vines",
+  "description": {
+    "translate": "trim_pattern.minecraft.weeping_vines"
+  },
+  "template_item": "minecraft:weeping_vines"
+}

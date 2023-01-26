@@ -1,0 +1,9 @@
+{
+  "asset_name": "spyglass",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.spyglass"
+  },
+  "ingredient": "minecraft:spyglass",
+  "item_model_index": 1.0
+}

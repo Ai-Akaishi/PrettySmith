@@ -1,0 +1,9 @@
+{
+  "asset_name": "stonecutter",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.stonecutter"
+  },
+  "ingredient": "minecraft:stonecutter",
+  "item_model_index": 1.0
+}

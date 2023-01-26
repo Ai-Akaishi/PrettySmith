@@ -1,0 +1,9 @@
+{
+  "asset_name": "orange_carpet",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.orange_carpet"
+  },
+  "ingredient": "minecraft:orange_carpet",
+  "item_model_index": 1.0
+}

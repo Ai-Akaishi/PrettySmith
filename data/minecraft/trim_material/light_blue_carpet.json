@@ -1,0 +1,9 @@
+{
+  "asset_name": "light_blue_carpet",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.light_blue_carpet"
+  },
+  "ingredient": "minecraft:light_blue_carpet",
+  "item_model_index": 1.0
+}

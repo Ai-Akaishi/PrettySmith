@@ -1,0 +1,9 @@
+{
+  "asset_name": "flint_and_steel",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.flint_and_steel"
+  },
+  "ingredient": "minecraft:flint_and_steel",
+  "item_model_index": 1.0
+}

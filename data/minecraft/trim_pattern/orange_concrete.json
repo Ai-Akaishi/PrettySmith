@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:orange_concrete",
+  "description": {
+    "translate": "trim_pattern.minecraft.orange_concrete"
+  },
+  "template_item": "minecraft:orange_concrete"
+}

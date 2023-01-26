@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:trident",
+  "description": {
+    "translate": "trim_pattern.minecraft.trident"
+  },
+  "template_item": "minecraft:trident"
+}

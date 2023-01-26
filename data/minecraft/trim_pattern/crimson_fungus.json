@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:crimson_fungus",
+  "description": {
+    "translate": "trim_pattern.minecraft.crimson_fungus"
+  },
+  "template_item": "minecraft:crimson_fungus"
+}

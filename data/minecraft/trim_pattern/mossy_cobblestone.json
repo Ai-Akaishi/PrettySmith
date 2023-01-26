@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:mossy_cobblestone",
+  "description": {
+    "translate": "trim_pattern.minecraft.mossy_cobblestone"
+  },
+  "template_item": "minecraft:mossy_cobblestone"
+}

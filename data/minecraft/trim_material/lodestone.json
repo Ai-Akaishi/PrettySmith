@@ -1,0 +1,9 @@
+{
+  "asset_name": "lodestone",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.lodestone"
+  },
+  "ingredient": "minecraft:lodestone",
+  "item_model_index": 1.0
+}

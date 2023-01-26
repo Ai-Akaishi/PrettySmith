@@ -1,0 +1,9 @@
+{
+  "asset_name": "soul_sand",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.soul_sand"
+  },
+  "ingredient": "minecraft:soul_sand",
+  "item_model_index": 1.0
+}

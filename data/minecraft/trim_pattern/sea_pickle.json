@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:sea_pickle",
+  "description": {
+    "translate": "trim_pattern.minecraft.sea_pickle"
+  },
+  "template_item": "minecraft:sea_pickle"
+}

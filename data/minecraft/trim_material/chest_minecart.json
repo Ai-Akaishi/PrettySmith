@@ -1,0 +1,9 @@
+{
+  "asset_name": "chest_minecart",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.chest_minecart"
+  },
+  "ingredient": "minecraft:chest_minecart",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "turtle_egg",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.turtle_egg"
+  },
+  "ingredient": "minecraft:turtle_egg",
+  "item_model_index": 1.0
+}

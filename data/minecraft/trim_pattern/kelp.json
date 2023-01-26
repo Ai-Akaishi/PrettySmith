@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:kelp",
+  "description": {
+    "translate": "trim_pattern.minecraft.kelp"
+  },
+  "template_item": "minecraft:kelp"
+}

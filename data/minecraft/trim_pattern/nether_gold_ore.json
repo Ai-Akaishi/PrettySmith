@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:nether_gold_ore",
+  "description": {
+    "translate": "trim_pattern.minecraft.nether_gold_ore"
+  },
+  "template_item": "minecraft:nether_gold_ore"
+}

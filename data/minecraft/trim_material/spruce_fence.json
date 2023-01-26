@@ -1,0 +1,9 @@
+{
+  "asset_name": "spruce_fence",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.spruce_fence"
+  },
+  "ingredient": "minecraft:spruce_fence",
+  "item_model_index": 1.0
+}

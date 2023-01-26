@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:prismarine_stairs",
+  "description": {
+    "translate": "trim_pattern.minecraft.prismarine_stairs"
+  },
+  "template_item": "minecraft:prismarine_stairs"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "furnace",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.furnace"
+  },
+  "ingredient": "minecraft:furnace",
+  "item_model_index": 1.0
+}

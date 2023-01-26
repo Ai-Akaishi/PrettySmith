@@ -1,0 +1,9 @@
+{
+  "asset_name": "stone_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.stone_stairs"
+  },
+  "ingredient": "minecraft:stone_stairs",
+  "item_model_index": 1.0
+}

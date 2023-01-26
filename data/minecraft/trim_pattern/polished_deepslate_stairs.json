@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:polished_deepslate_stairs",
+  "description": {
+    "translate": "trim_pattern.minecraft.polished_deepslate_stairs"
+  },
+  "template_item": "minecraft:polished_deepslate_stairs"
+}

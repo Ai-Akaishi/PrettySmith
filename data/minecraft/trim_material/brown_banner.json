@@ -1,0 +1,9 @@
+{
+  "asset_name": "brown_banner",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.brown_banner"
+  },
+  "ingredient": "minecraft:brown_banner",
+  "item_model_index": 1.0
+}

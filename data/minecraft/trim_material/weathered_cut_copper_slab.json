@@ -1,0 +1,9 @@
+{
+  "asset_name": "weathered_cut_copper_slab",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.weathered_cut_copper_slab"
+  },
+  "ingredient": "minecraft:weathered_cut_copper_slab",
+  "item_model_index": 1.0
+}

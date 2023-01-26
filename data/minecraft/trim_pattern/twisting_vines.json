@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:twisting_vines",
+  "description": {
+    "translate": "trim_pattern.minecraft.twisting_vines"
+  },
+  "template_item": "minecraft:twisting_vines"
+}

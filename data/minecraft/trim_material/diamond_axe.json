@@ -1,0 +1,9 @@
+{
+  "asset_name": "diamond_axe",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.diamond_axe"
+  },
+  "ingredient": "minecraft:diamond_axe",
+  "item_model_index": 1.0
+}

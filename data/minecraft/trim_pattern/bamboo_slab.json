@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bamboo_slab",
+  "description": {
+    "translate": "trim_pattern.minecraft.bamboo_slab"
+  },
+  "template_item": "minecraft:bamboo_slab"
+}

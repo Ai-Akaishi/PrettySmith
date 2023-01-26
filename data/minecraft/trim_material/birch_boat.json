@@ -1,0 +1,9 @@
+{
+  "asset_name": "birch_boat",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.birch_boat"
+  },
+  "ingredient": "minecraft:birch_boat",
+  "item_model_index": 1.0
+}

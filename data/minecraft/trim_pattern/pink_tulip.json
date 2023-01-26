@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:pink_tulip",
+  "description": {
+    "translate": "trim_pattern.minecraft.pink_tulip"
+  },
+  "template_item": "minecraft:pink_tulip"
+}

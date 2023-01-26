@@ -1,0 +1,9 @@
+{
+  "asset_name": "tadpole_bucket",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.tadpole_bucket"
+  },
+  "ingredient": "minecraft:tadpole_bucket",
+  "item_model_index": 1.0
+}

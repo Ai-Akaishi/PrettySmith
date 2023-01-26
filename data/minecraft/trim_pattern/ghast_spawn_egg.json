@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:ghast_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.ghast_spawn_egg"
+  },
+  "template_item": "minecraft:ghast_spawn_egg"
+}

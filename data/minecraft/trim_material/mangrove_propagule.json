@@ -1,0 +1,9 @@
+{
+  "asset_name": "mangrove_propagule",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.mangrove_propagule"
+  },
+  "ingredient": "minecraft:mangrove_propagule",
+  "item_model_index": 1.0
+}

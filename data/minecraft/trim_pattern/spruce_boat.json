@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:spruce_boat",
+  "description": {
+    "translate": "trim_pattern.minecraft.spruce_boat"
+  },
+  "template_item": "minecraft:spruce_boat"
+}

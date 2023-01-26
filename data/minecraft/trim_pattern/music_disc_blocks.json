@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:music_disc_blocks",
+  "description": {
+    "translate": "trim_pattern.minecraft.music_disc_blocks"
+  },
+  "template_item": "minecraft:music_disc_blocks"
+}

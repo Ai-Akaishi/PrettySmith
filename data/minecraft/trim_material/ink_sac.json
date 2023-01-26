@@ -1,0 +1,9 @@
+{
+  "asset_name": "ink_sac",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.ink_sac"
+  },
+  "ingredient": "minecraft:ink_sac",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:repeater",
+  "description": {
+    "translate": "trim_pattern.minecraft.repeater"
+  },
+  "template_item": "minecraft:repeater"
+}

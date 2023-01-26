@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:podzol",
+  "description": {
+    "translate": "trim_pattern.minecraft.podzol"
+  },
+  "template_item": "minecraft:podzol"
+}

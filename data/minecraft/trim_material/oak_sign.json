@@ -1,0 +1,9 @@
+{
+  "asset_name": "oak_sign",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.oak_sign"
+  },
+  "ingredient": "minecraft:oak_sign",
+  "item_model_index": 1.0
+}

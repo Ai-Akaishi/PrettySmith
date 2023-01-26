@@ -1,0 +1,9 @@
+{
+  "asset_name": "bamboo_trapdoor",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.bamboo_trapdoor"
+  },
+  "ingredient": "minecraft:bamboo_trapdoor",
+  "item_model_index": 1.0
+}

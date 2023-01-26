@@ -1,0 +1,9 @@
+{
+  "asset_name": "lime_banner",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.lime_banner"
+  },
+  "ingredient": "minecraft:lime_banner",
+  "item_model_index": 1.0
+}

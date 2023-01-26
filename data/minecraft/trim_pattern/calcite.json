@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:calcite",
+  "description": {
+    "translate": "trim_pattern.minecraft.calcite"
+  },
+  "template_item": "minecraft:calcite"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "acacia_slab",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.acacia_slab"
+  },
+  "ingredient": "minecraft:acacia_slab",
+  "item_model_index": 1.0
+}

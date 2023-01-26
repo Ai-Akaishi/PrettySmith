@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:spyglass",
+  "description": {
+    "translate": "trim_pattern.minecraft.spyglass"
+  },
+  "template_item": "minecraft:spyglass"
+}

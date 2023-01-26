@@ -1,0 +1,9 @@
+{
+  "asset_name": "powder_snow_bucket",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.powder_snow_bucket"
+  },
+  "ingredient": "minecraft:powder_snow_bucket",
+  "item_model_index": 1.0
+}

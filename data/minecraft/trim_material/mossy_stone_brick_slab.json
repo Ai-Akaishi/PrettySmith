@@ -1,0 +1,9 @@
+{
+  "asset_name": "mossy_stone_brick_slab",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.mossy_stone_brick_slab"
+  },
+  "ingredient": "minecraft:mossy_stone_brick_slab",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "jungle_wood",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.jungle_wood"
+  },
+  "ingredient": "minecraft:jungle_wood",
+  "item_model_index": 1.0
+}

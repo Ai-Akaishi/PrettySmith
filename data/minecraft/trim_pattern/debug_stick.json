@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:debug_stick",
+  "description": {
+    "translate": "trim_pattern.minecraft.debug_stick"
+  },
+  "template_item": "minecraft:debug_stick"
+}

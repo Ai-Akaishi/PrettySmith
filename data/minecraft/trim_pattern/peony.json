@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:peony",
+  "description": {
+    "translate": "trim_pattern.minecraft.peony"
+  },
+  "template_item": "minecraft:peony"
+}

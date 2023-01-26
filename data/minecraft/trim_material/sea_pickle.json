@@ -1,0 +1,9 @@
+{
+  "asset_name": "sea_pickle",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.sea_pickle"
+  },
+  "ingredient": "minecraft:sea_pickle",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:sandstone_stairs",
+  "description": {
+    "translate": "trim_pattern.minecraft.sandstone_stairs"
+  },
+  "template_item": "minecraft:sandstone_stairs"
+}

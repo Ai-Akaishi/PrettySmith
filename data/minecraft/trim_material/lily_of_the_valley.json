@@ -1,0 +1,9 @@
+{
+  "asset_name": "lily_of_the_valley",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.lily_of_the_valley"
+  },
+  "ingredient": "minecraft:lily_of_the_valley",
+  "item_model_index": 1.0
+}

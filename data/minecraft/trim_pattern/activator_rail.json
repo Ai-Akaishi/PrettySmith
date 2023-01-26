@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:activator_rail",
+  "description": {
+    "translate": "trim_pattern.minecraft.activator_rail"
+  },
+  "template_item": "minecraft:activator_rail"
+}

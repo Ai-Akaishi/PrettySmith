@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:ender_dragon_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.ender_dragon_spawn_egg"
+  },
+  "template_item": "minecraft:ender_dragon_spawn_egg"
+}

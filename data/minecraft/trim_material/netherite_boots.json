@@ -1,0 +1,9 @@
+{
+  "asset_name": "netherite_boots",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.netherite_boots"
+  },
+  "ingredient": "minecraft:netherite_boots",
+  "item_model_index": 1.0
+}

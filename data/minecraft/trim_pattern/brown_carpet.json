@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:brown_carpet",
+  "description": {
+    "translate": "trim_pattern.minecraft.brown_carpet"
+  },
+  "template_item": "minecraft:brown_carpet"
+}

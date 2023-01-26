@@ -1,0 +1,9 @@
+{
+  "asset_name": "fire_charge",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.fire_charge"
+  },
+  "ingredient": "minecraft:fire_charge",
+  "item_model_index": 1.0
+}

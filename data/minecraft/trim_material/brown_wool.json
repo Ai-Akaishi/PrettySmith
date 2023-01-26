@@ -1,0 +1,9 @@
+{
+  "asset_name": "brown_wool",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.brown_wool"
+  },
+  "ingredient": "minecraft:brown_wool",
+  "item_model_index": 1.0
+}

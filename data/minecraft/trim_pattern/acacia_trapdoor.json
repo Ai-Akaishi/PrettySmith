@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:acacia_trapdoor",
+  "description": {
+    "translate": "trim_pattern.minecraft.acacia_trapdoor"
+  },
+  "template_item": "minecraft:acacia_trapdoor"
+}

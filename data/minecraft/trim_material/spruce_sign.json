@@ -1,0 +1,9 @@
+{
+  "asset_name": "spruce_sign",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.spruce_sign"
+  },
+  "ingredient": "minecraft:spruce_sign",
+  "item_model_index": 1.0
+}

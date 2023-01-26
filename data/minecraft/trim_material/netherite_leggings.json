@@ -1,0 +1,9 @@
+{
+  "asset_name": "netherite_leggings",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.netherite_leggings"
+  },
+  "ingredient": "minecraft:netherite_leggings",
+  "item_model_index": 1.0
+}

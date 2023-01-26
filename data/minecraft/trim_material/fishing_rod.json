@@ -1,0 +1,9 @@
+{
+  "asset_name": "fishing_rod",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.fishing_rod"
+  },
+  "ingredient": "minecraft:fishing_rod",
+  "item_model_index": 1.0
+}

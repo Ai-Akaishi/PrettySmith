@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bamboo_button",
+  "description": {
+    "translate": "trim_pattern.minecraft.bamboo_button"
+  },
+  "template_item": "minecraft:bamboo_button"
+}

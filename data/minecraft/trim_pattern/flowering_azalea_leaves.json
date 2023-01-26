@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:flowering_azalea_leaves",
+  "description": {
+    "translate": "trim_pattern.minecraft.flowering_azalea_leaves"
+  },
+  "template_item": "minecraft:flowering_azalea_leaves"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:piglin_banner_pattern",
+  "description": {
+    "translate": "trim_pattern.minecraft.piglin_banner_pattern"
+  },
+  "template_item": "minecraft:piglin_banner_pattern"
+}

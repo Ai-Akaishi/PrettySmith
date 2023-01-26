@@ -1,0 +1,9 @@
+{
+  "asset_name": "farmland",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.farmland"
+  },
+  "ingredient": "minecraft:farmland",
+  "item_model_index": 1.0
+}

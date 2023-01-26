@@ -1,0 +1,9 @@
+{
+  "asset_name": "music_disc_chirp",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.music_disc_chirp"
+  },
+  "ingredient": "minecraft:music_disc_chirp",
+  "item_model_index": 1.0
+}

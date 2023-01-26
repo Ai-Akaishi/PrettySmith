@@ -1,0 +1,9 @@
+{
+  "asset_name": "infested_cobblestone",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.infested_cobblestone"
+  },
+  "ingredient": "minecraft:infested_cobblestone",
+  "item_model_index": 1.0
+}

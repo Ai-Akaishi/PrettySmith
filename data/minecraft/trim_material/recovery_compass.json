@@ -1,0 +1,9 @@
+{
+  "asset_name": "recovery_compass",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.recovery_compass"
+  },
+  "ingredient": "minecraft:recovery_compass",
+  "item_model_index": 1.0
+}

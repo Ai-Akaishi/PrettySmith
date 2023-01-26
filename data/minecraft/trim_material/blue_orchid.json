@@ -1,0 +1,9 @@
+{
+  "asset_name": "blue_orchid",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.blue_orchid"
+  },
+  "ingredient": "minecraft:blue_orchid",
+  "item_model_index": 1.0
+}

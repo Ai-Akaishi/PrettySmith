@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:prismarine_crystals",
+  "description": {
+    "translate": "trim_pattern.minecraft.prismarine_crystals"
+  },
+  "template_item": "minecraft:prismarine_crystals"
+}

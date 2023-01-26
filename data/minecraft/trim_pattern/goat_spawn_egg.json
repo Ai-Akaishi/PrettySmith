@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:goat_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.goat_spawn_egg"
+  },
+  "template_item": "minecraft:goat_spawn_egg"
+}

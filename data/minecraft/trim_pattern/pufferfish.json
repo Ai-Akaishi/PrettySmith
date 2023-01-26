@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:pufferfish",
+  "description": {
+    "translate": "trim_pattern.minecraft.pufferfish"
+  },
+  "template_item": "minecraft:pufferfish"
+}

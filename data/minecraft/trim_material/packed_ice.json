@@ -1,0 +1,9 @@
+{
+  "asset_name": "packed_ice",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.packed_ice"
+  },
+  "ingredient": "minecraft:packed_ice",
+  "item_model_index": 1.0
+}

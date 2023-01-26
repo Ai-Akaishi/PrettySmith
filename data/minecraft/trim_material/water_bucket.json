@@ -1,0 +1,9 @@
+{
+  "asset_name": "water_bucket",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.water_bucket"
+  },
+  "ingredient": "minecraft:water_bucket",
+  "item_model_index": 1.0
+}

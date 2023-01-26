@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:jukebox",
+  "description": {
+    "translate": "trim_pattern.minecraft.jukebox"
+  },
+  "template_item": "minecraft:jukebox"
+}

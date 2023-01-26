@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:netherite_sword",
+  "description": {
+    "translate": "trim_pattern.minecraft.netherite_sword"
+  },
+  "template_item": "minecraft:netherite_sword"
+}

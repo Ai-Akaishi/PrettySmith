@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:netherite_ingot",
+  "description": {
+    "translate": "trim_pattern.minecraft.netherite_ingot"
+  },
+  "template_item": "minecraft:netherite_ingot"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cobblestone_stairs",
+  "description": {
+    "translate": "trim_pattern.minecraft.cobblestone_stairs"
+  },
+  "template_item": "minecraft:cobblestone_stairs"
+}

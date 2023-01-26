@@ -1,0 +1,9 @@
+{
+  "asset_name": "brewing_stand",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.brewing_stand"
+  },
+  "ingredient": "minecraft:brewing_stand",
+  "item_model_index": 1.0
+}

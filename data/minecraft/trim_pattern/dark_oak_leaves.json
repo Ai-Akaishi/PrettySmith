@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:dark_oak_leaves",
+  "description": {
+    "translate": "trim_pattern.minecraft.dark_oak_leaves"
+  },
+  "template_item": "minecraft:dark_oak_leaves"
+}

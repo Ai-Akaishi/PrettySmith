@@ -1,0 +1,9 @@
+{
+  "asset_name": "magma_block",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.magma_block"
+  },
+  "ingredient": "minecraft:magma_block",
+  "item_model_index": 1.0
+}

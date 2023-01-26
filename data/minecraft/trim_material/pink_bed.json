@@ -1,0 +1,9 @@
+{
+  "asset_name": "pink_bed",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.pink_bed"
+  },
+  "ingredient": "minecraft:pink_bed",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:gold_ingot",
+  "description": {
+    "translate": "trim_pattern.minecraft.gold_ingot"
+  },
+  "template_item": "minecraft:gold_ingot"
+}

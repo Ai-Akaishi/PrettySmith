@@ -1,0 +1,9 @@
+{
+  "asset_name": "target",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.target"
+  },
+  "ingredient": "minecraft:target",
+  "item_model_index": 1.0
+}

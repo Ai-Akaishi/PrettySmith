@@ -1,0 +1,9 @@
+{
+  "asset_name": "redstone_lamp",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.redstone_lamp"
+  },
+  "ingredient": "minecraft:redstone_lamp",
+  "item_model_index": 1.0
+}

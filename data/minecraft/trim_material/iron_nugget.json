@@ -1,0 +1,9 @@
+{
+  "asset_name": "iron_nugget",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.iron_nugget"
+  },
+  "ingredient": "minecraft:iron_nugget",
+  "item_model_index": 1.0
+}

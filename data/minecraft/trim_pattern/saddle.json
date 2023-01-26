@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:saddle",
+  "description": {
+    "translate": "trim_pattern.minecraft.saddle"
+  },
+  "template_item": "minecraft:saddle"
+}

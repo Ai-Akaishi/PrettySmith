@@ -1,0 +1,9 @@
+{
+  "asset_name": "jungle_boat",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.jungle_boat"
+  },
+  "ingredient": "minecraft:jungle_boat",
+  "item_model_index": 1.0
+}

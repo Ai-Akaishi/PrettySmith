@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:jungle_fence",
+  "description": {
+    "translate": "trim_pattern.minecraft.jungle_fence"
+  },
+  "template_item": "minecraft:jungle_fence"
+}

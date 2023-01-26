@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:jungle_sign",
+  "description": {
+    "translate": "trim_pattern.minecraft.jungle_sign"
+  },
+  "template_item": "minecraft:jungle_sign"
+}

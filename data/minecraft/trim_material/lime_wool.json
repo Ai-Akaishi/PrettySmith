@@ -1,0 +1,9 @@
+{
+  "asset_name": "lime_wool",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.lime_wool"
+  },
+  "ingredient": "minecraft:lime_wool",
+  "item_model_index": 1.0
+}

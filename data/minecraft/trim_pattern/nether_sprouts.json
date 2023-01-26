@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:nether_sprouts",
+  "description": {
+    "translate": "trim_pattern.minecraft.nether_sprouts"
+  },
+  "template_item": "minecraft:nether_sprouts"
+}

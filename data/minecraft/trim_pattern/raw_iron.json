@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:raw_iron",
+  "description": {
+    "translate": "trim_pattern.minecraft.raw_iron"
+  },
+  "template_item": "minecraft:raw_iron"
+}

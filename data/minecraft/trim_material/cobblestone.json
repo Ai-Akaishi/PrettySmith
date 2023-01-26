@@ -1,0 +1,9 @@
+{
+  "asset_name": "cobblestone",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cobblestone"
+  },
+  "ingredient": "minecraft:cobblestone",
+  "item_model_index": 1.0
+}

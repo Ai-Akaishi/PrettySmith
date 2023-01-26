@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:wither_skeleton_skull",
+  "description": {
+    "translate": "trim_pattern.minecraft.wither_skeleton_skull"
+  },
+  "template_item": "minecraft:wither_skeleton_skull"
+}

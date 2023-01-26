@@ -1,0 +1,9 @@
+{
+  "asset_name": "green_dye",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.green_dye"
+  },
+  "ingredient": "minecraft:green_dye",
+  "item_model_index": 1.0
+}

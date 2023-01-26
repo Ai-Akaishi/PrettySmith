@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:polished_granite_slab",
+  "description": {
+    "translate": "trim_pattern.minecraft.polished_granite_slab"
+  },
+  "template_item": "minecraft:polished_granite_slab"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:mushroom_stew",
+  "description": {
+    "translate": "trim_pattern.minecraft.mushroom_stew"
+  },
+  "template_item": "minecraft:mushroom_stew"
+}

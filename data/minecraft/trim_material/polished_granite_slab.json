@@ -1,0 +1,9 @@
+{
+  "asset_name": "polished_granite_slab",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.polished_granite_slab"
+  },
+  "ingredient": "minecraft:polished_granite_slab",
+  "item_model_index": 1.0
+}

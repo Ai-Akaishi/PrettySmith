@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:purpur_slab",
+  "description": {
+    "translate": "trim_pattern.minecraft.purpur_slab"
+  },
+  "template_item": "minecraft:purpur_slab"
+}

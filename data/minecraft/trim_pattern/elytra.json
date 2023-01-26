@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:elytra",
+  "description": {
+    "translate": "trim_pattern.minecraft.elytra"
+  },
+  "template_item": "minecraft:elytra"
+}

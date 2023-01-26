@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:tnt_minecart",
+  "description": {
+    "translate": "trim_pattern.minecraft.tnt_minecart"
+  },
+  "template_item": "minecraft:tnt_minecart"
+}

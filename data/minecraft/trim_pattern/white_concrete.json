@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:white_concrete",
+  "description": {
+    "translate": "trim_pattern.minecraft.white_concrete"
+  },
+  "template_item": "minecraft:white_concrete"
+}

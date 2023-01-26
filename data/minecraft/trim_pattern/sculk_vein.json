@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:sculk_vein",
+  "description": {
+    "translate": "trim_pattern.minecraft.sculk_vein"
+  },
+  "template_item": "minecraft:sculk_vein"
+}

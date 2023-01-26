@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:name_tag",
+  "description": {
+    "translate": "trim_pattern.minecraft.name_tag"
+  },
+  "template_item": "minecraft:name_tag"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "cobbled_deepslate_wall",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cobbled_deepslate_wall"
+  },
+  "ingredient": "minecraft:cobbled_deepslate_wall",
+  "item_model_index": 1.0
+}

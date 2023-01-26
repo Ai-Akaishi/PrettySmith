@@ -1,0 +1,9 @@
+{
+  "asset_name": "black_bed",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.black_bed"
+  },
+  "ingredient": "minecraft:black_bed",
+  "item_model_index": 1.0
+}

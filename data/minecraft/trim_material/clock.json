@@ -1,0 +1,9 @@
+{
+  "asset_name": "clock",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.clock"
+  },
+  "ingredient": "minecraft:clock",
+  "item_model_index": 1.0
+}

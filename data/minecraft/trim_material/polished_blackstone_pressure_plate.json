@@ -1,0 +1,9 @@
+{
+  "asset_name": "polished_blackstone_pressure_plate",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.polished_blackstone_pressure_plate"
+  },
+  "ingredient": "minecraft:polished_blackstone_pressure_plate",
+  "item_model_index": 1.0
+}

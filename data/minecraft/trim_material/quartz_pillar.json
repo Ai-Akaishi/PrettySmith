@@ -1,0 +1,9 @@
+{
+  "asset_name": "quartz_pillar",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.quartz_pillar"
+  },
+  "ingredient": "minecraft:quartz_pillar",
+  "item_model_index": 1.0
+}

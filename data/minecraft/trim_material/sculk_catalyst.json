@@ -1,0 +1,9 @@
+{
+  "asset_name": "sculk_catalyst",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.sculk_catalyst"
+  },
+  "ingredient": "minecraft:sculk_catalyst",
+  "item_model_index": 1.0
+}

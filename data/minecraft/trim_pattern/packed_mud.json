@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:packed_mud",
+  "description": {
+    "translate": "trim_pattern.minecraft.packed_mud"
+  },
+  "template_item": "minecraft:packed_mud"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "spruce_sapling",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.spruce_sapling"
+  },
+  "ingredient": "minecraft:spruce_sapling",
+  "item_model_index": 1.0
+}

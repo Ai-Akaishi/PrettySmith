@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:snow_block",
+  "description": {
+    "translate": "trim_pattern.minecraft.snow_block"
+  },
+  "template_item": "minecraft:snow_block"
+}

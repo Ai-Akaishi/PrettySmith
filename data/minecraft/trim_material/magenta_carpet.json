@@ -1,0 +1,9 @@
+{
+  "asset_name": "magenta_carpet",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.magenta_carpet"
+  },
+  "ingredient": "minecraft:magenta_carpet",
+  "item_model_index": 1.0
+}

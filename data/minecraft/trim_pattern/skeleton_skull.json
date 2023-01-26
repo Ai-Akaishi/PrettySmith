@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:skeleton_skull",
+  "description": {
+    "translate": "trim_pattern.minecraft.skeleton_skull"
+  },
+  "template_item": "minecraft:skeleton_skull"
+}

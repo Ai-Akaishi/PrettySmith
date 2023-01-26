@@ -1,0 +1,9 @@
+{
+  "asset_name": "birch_trapdoor",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.birch_trapdoor"
+  },
+  "ingredient": "minecraft:birch_trapdoor",
+  "item_model_index": 1.0
+}

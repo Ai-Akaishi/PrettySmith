@@ -1,0 +1,9 @@
+{
+  "asset_name": "firework_star",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.firework_star"
+  },
+  "ingredient": "minecraft:firework_star",
+  "item_model_index": 1.0
+}

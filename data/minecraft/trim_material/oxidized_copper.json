@@ -1,0 +1,9 @@
+{
+  "asset_name": "oxidized_copper",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.oxidized_copper"
+  },
+  "ingredient": "minecraft:oxidized_copper",
+  "item_model_index": 1.0
+}

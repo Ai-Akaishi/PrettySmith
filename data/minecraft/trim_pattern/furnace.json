@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:furnace",
+  "description": {
+    "translate": "trim_pattern.minecraft.furnace"
+  },
+  "template_item": "minecraft:furnace"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:amethyst_cluster",
+  "description": {
+    "translate": "trim_pattern.minecraft.amethyst_cluster"
+  },
+  "template_item": "minecraft:amethyst_cluster"
+}

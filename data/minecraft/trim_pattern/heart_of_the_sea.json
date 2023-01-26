@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:heart_of_the_sea",
+  "description": {
+    "translate": "trim_pattern.minecraft.heart_of_the_sea"
+  },
+  "template_item": "minecraft:heart_of_the_sea"
+}

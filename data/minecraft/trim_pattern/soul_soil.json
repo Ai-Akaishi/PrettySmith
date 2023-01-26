@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:soul_soil",
+  "description": {
+    "translate": "trim_pattern.minecraft.soul_soil"
+  },
+  "template_item": "minecraft:soul_soil"
+}

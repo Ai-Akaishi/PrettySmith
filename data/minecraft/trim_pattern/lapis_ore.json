@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:lapis_ore",
+  "description": {
+    "translate": "trim_pattern.minecraft.lapis_ore"
+  },
+  "template_item": "minecraft:lapis_ore"
+}

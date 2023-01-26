@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:ochre_froglight",
+  "description": {
+    "translate": "trim_pattern.minecraft.ochre_froglight"
+  },
+  "template_item": "minecraft:ochre_froglight"
+}

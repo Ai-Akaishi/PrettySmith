@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:piston",
+  "description": {
+    "translate": "trim_pattern.minecraft.piston"
+  },
+  "template_item": "minecraft:piston"
+}

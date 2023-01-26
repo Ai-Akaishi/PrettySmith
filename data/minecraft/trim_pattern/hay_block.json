@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:hay_block",
+  "description": {
+    "translate": "trim_pattern.minecraft.hay_block"
+  },
+  "template_item": "minecraft:hay_block"
+}

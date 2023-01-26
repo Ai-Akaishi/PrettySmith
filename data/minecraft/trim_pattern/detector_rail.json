@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:detector_rail",
+  "description": {
+    "translate": "trim_pattern.minecraft.detector_rail"
+  },
+  "template_item": "minecraft:detector_rail"
+}

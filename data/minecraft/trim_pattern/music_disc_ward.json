@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:music_disc_ward",
+  "description": {
+    "translate": "trim_pattern.minecraft.music_disc_ward"
+  },
+  "template_item": "minecraft:music_disc_ward"
+}

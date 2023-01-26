@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:glow_berries",
+  "description": {
+    "translate": "trim_pattern.minecraft.glow_berries"
+  },
+  "template_item": "minecraft:glow_berries"
+}

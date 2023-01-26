@@ -1,0 +1,9 @@
+{
+  "asset_name": "fire_coral",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.fire_coral"
+  },
+  "ingredient": "minecraft:fire_coral",
+  "item_model_index": 1.0
+}

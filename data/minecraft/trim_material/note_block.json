@@ -1,0 +1,9 @@
+{
+  "asset_name": "note_block",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.note_block"
+  },
+  "ingredient": "minecraft:note_block",
+  "item_model_index": 1.0
+}

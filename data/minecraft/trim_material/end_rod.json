@@ -1,0 +1,9 @@
+{
+  "asset_name": "end_rod",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.end_rod"
+  },
+  "ingredient": "minecraft:end_rod",
+  "item_model_index": 1.0
+}

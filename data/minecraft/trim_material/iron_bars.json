@@ -1,0 +1,9 @@
+{
+  "asset_name": "iron_bars",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.iron_bars"
+  },
+  "ingredient": "minecraft:iron_bars",
+  "item_model_index": 1.0
+}

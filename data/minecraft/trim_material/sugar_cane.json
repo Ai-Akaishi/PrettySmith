@@ -1,0 +1,9 @@
+{
+  "asset_name": "sugar_cane",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.sugar_cane"
+  },
+  "ingredient": "minecraft:sugar_cane",
+  "item_model_index": 1.0
+}

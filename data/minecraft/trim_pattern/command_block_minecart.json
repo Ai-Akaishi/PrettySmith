@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:command_block_minecart",
+  "description": {
+    "translate": "trim_pattern.minecraft.command_block_minecart"
+  },
+  "template_item": "minecraft:command_block_minecart"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:spruce_stairs",
+  "description": {
+    "translate": "trim_pattern.minecraft.spruce_stairs"
+  },
+  "template_item": "minecraft:spruce_stairs"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:recovery_compass",
+  "description": {
+    "translate": "trim_pattern.minecraft.recovery_compass"
+  },
+  "template_item": "minecraft:recovery_compass"
+}

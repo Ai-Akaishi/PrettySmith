@@ -1,0 +1,9 @@
+{
+  "asset_name": "bamboo_fence",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.bamboo_fence"
+  },
+  "ingredient": "minecraft:bamboo_fence",
+  "item_model_index": 1.0
+}

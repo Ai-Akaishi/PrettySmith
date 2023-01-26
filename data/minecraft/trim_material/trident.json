@@ -1,0 +1,9 @@
+{
+  "asset_name": "trident",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.trident"
+  },
+  "ingredient": "minecraft:trident",
+  "item_model_index": 1.0
+}

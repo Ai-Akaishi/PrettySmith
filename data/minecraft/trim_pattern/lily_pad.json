@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:lily_pad",
+  "description": {
+    "translate": "trim_pattern.minecraft.lily_pad"
+  },
+  "template_item": "minecraft:lily_pad"
+}

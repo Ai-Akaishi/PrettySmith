@@ -1,0 +1,9 @@
+{
+  "asset_name": "trapped_chest",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.trapped_chest"
+  },
+  "ingredient": "minecraft:trapped_chest",
+  "item_model_index": 1.0
+}

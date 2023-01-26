@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:fletching_table",
+  "description": {
+    "translate": "trim_pattern.minecraft.fletching_table"
+  },
+  "template_item": "minecraft:fletching_table"
+}

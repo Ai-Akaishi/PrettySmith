@@ -1,0 +1,9 @@
+{
+  "asset_name": "diamond_pickaxe",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.diamond_pickaxe"
+  },
+  "ingredient": "minecraft:diamond_pickaxe",
+  "item_model_index": 1.0
+}

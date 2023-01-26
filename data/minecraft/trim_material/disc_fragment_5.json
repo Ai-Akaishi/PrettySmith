@@ -1,0 +1,9 @@
+{
+  "asset_name": "disc_fragment_5",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.disc_fragment_5"
+  },
+  "ingredient": "minecraft:disc_fragment_5",
+  "item_model_index": 1.0
+}

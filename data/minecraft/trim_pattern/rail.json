@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:rail",
+  "description": {
+    "translate": "trim_pattern.minecraft.rail"
+  },
+  "template_item": "minecraft:rail"
+}

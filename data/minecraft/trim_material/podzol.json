@@ -1,0 +1,9 @@
+{
+  "asset_name": "podzol",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.podzol"
+  },
+  "ingredient": "minecraft:podzol",
+  "item_model_index": 1.0
+}

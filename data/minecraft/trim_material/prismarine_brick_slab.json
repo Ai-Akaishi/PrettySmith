@@ -1,0 +1,9 @@
+{
+  "asset_name": "prismarine_brick_slab",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.prismarine_brick_slab"
+  },
+  "ingredient": "minecraft:prismarine_brick_slab",
+  "item_model_index": 1.0
+}

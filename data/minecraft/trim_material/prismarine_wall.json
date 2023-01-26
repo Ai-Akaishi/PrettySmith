@@ -1,0 +1,9 @@
+{
+  "asset_name": "prismarine_wall",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.prismarine_wall"
+  },
+  "ingredient": "minecraft:prismarine_wall",
+  "item_model_index": 1.0
+}

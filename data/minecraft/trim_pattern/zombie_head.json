@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:zombie_head",
+  "description": {
+    "translate": "trim_pattern.minecraft.zombie_head"
+  },
+  "template_item": "minecraft:zombie_head"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "salmon",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.salmon"
+  },
+  "ingredient": "minecraft:salmon",
+  "item_model_index": 1.0
+}

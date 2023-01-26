@@ -1,0 +1,9 @@
+{
+  "asset_name": "yellow_shulker_box",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.yellow_shulker_box"
+  },
+  "ingredient": "minecraft:yellow_shulker_box",
+  "item_model_index": 1.0
+}

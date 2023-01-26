@@ -1,0 +1,9 @@
+{
+  "asset_name": "light_gray_terracotta",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.light_gray_terracotta"
+  },
+  "ingredient": "minecraft:light_gray_terracotta",
+  "item_model_index": 1.0
+}

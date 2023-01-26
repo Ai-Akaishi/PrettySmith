@@ -1,0 +1,9 @@
+{
+  "asset_name": "chest",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.chest"
+  },
+  "ingredient": "minecraft:chest",
+  "item_model_index": 1.0
+}

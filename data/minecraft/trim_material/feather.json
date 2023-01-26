@@ -1,0 +1,9 @@
+{
+  "asset_name": "feather",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.feather"
+  },
+  "ingredient": "minecraft:feather",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:diorite_stairs",
+  "description": {
+    "translate": "trim_pattern.minecraft.diorite_stairs"
+  },
+  "template_item": "minecraft:diorite_stairs"
+}

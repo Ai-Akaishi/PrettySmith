@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:acacia_fence",
+  "description": {
+    "translate": "trim_pattern.minecraft.acacia_fence"
+  },
+  "template_item": "minecraft:acacia_fence"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cyan_bed",
+  "description": {
+    "translate": "trim_pattern.minecraft.cyan_bed"
+  },
+  "template_item": "minecraft:cyan_bed"
+}

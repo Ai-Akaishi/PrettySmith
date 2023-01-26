@@ -1,0 +1,9 @@
+{
+  "asset_name": "glistering_melon_slice",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.glistering_melon_slice"
+  },
+  "ingredient": "minecraft:glistering_melon_slice",
+  "item_model_index": 1.0
+}

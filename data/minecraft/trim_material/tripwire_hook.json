@@ -1,0 +1,9 @@
+{
+  "asset_name": "tripwire_hook",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.tripwire_hook"
+  },
+  "ingredient": "minecraft:tripwire_hook",
+  "item_model_index": 1.0
+}

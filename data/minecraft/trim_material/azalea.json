@@ -1,0 +1,9 @@
+{
+  "asset_name": "azalea",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.azalea"
+  },
+  "ingredient": "minecraft:azalea",
+  "item_model_index": 1.0
+}

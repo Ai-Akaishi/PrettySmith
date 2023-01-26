@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:echo_shard",
+  "description": {
+    "translate": "trim_pattern.minecraft.echo_shard"
+  },
+  "template_item": "minecraft:echo_shard"
+}

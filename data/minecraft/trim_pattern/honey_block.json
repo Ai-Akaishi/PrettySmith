@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:honey_block",
+  "description": {
+    "translate": "trim_pattern.minecraft.honey_block"
+  },
+  "template_item": "minecraft:honey_block"
+}

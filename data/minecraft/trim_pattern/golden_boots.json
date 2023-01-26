@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:golden_boots",
+  "description": {
+    "translate": "trim_pattern.minecraft.golden_boots"
+  },
+  "template_item": "minecraft:golden_boots"
+}

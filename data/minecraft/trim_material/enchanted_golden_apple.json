@@ -1,0 +1,9 @@
+{
+  "asset_name": "enchanted_golden_apple",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.enchanted_golden_apple"
+  },
+  "ingredient": "minecraft:enchanted_golden_apple",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "crimson_nylium",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.crimson_nylium"
+  },
+  "ingredient": "minecraft:crimson_nylium",
+  "item_model_index": 1.0
+}

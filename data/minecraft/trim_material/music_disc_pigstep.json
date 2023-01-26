@@ -1,0 +1,9 @@
+{
+  "asset_name": "music_disc_pigstep",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.music_disc_pigstep"
+  },
+  "ingredient": "minecraft:music_disc_pigstep",
+  "item_model_index": 1.0
+}

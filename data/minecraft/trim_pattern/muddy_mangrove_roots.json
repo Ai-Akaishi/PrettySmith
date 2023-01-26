@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:muddy_mangrove_roots",
+  "description": {
+    "translate": "trim_pattern.minecraft.muddy_mangrove_roots"
+  },
+  "template_item": "minecraft:muddy_mangrove_roots"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:large_amethyst_bud",
+  "description": {
+    "translate": "trim_pattern.minecraft.large_amethyst_bud"
+  },
+  "template_item": "minecraft:large_amethyst_bud"
+}

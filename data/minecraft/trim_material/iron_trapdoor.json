@@ -1,0 +1,9 @@
+{
+  "asset_name": "iron_trapdoor",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.iron_trapdoor"
+  },
+  "ingredient": "minecraft:iron_trapdoor",
+  "item_model_index": 1.0
+}

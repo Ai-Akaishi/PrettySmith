@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bell",
+  "description": {
+    "translate": "trim_pattern.minecraft.bell"
+  },
+  "template_item": "minecraft:bell"
+}

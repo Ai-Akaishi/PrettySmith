@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:dandelion",
+  "description": {
+    "translate": "trim_pattern.minecraft.dandelion"
+  },
+  "template_item": "minecraft:dandelion"
+}

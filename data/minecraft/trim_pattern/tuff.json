@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:tuff",
+  "description": {
+    "translate": "trim_pattern.minecraft.tuff"
+  },
+  "template_item": "minecraft:tuff"
+}

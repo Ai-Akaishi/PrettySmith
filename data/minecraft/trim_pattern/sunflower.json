@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:sunflower",
+  "description": {
+    "translate": "trim_pattern.minecraft.sunflower"
+  },
+  "template_item": "minecraft:sunflower"
+}

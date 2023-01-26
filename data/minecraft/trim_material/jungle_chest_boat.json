@@ -1,0 +1,9 @@
+{
+  "asset_name": "jungle_chest_boat",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.jungle_chest_boat"
+  },
+  "ingredient": "minecraft:jungle_chest_boat",
+  "item_model_index": 1.0
+}

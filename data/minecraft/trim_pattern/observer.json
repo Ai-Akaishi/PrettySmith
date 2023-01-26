@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:observer",
+  "description": {
+    "translate": "trim_pattern.minecraft.observer"
+  },
+  "template_item": "minecraft:observer"
+}

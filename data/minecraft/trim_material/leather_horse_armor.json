@@ -1,0 +1,9 @@
+{
+  "asset_name": "leather_horse_armor",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.leather_horse_armor"
+  },
+  "ingredient": "minecraft:leather_horse_armor",
+  "item_model_index": 1.0
+}

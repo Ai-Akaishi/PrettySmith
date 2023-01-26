@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:birch_sign",
+  "description": {
+    "translate": "trim_pattern.minecraft.birch_sign"
+  },
+  "template_item": "minecraft:birch_sign"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:tinted_glass",
+  "description": {
+    "translate": "trim_pattern.minecraft.tinted_glass"
+  },
+  "template_item": "minecraft:tinted_glass"
+}

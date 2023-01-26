@@ -1,0 +1,9 @@
+{
+  "asset_name": "painting",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.painting"
+  },
+  "ingredient": "minecraft:painting",
+  "item_model_index": 1.0
+}

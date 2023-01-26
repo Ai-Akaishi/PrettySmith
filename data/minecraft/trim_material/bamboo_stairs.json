@@ -1,0 +1,9 @@
+{
+  "asset_name": "bamboo_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.bamboo_stairs"
+  },
+  "ingredient": "minecraft:bamboo_stairs",
+  "item_model_index": 1.0
+}

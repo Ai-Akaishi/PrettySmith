@@ -1,0 +1,9 @@
+{
+  "asset_name": "wooden_shovel",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.wooden_shovel"
+  },
+  "ingredient": "minecraft:wooden_shovel",
+  "item_model_index": 1.0
+}

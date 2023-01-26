@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cod_bucket",
+  "description": {
+    "translate": "trim_pattern.minecraft.cod_bucket"
+  },
+  "template_item": "minecraft:cod_bucket"
+}

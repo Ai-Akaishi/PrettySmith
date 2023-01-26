@@ -1,0 +1,9 @@
+{
+  "asset_name": "sculk_sensor",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.sculk_sensor"
+  },
+  "ingredient": "minecraft:sculk_sensor",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "spawner",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.spawner"
+  },
+  "ingredient": "minecraft:spawner",
+  "item_model_index": 1.0
+}

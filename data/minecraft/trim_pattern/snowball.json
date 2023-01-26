@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:snowball",
+  "description": {
+    "translate": "trim_pattern.minecraft.snowball"
+  },
+  "template_item": "minecraft:snowball"
+}

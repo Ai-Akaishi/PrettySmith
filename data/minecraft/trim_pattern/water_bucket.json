@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:water_bucket",
+  "description": {
+    "translate": "trim_pattern.minecraft.water_bucket"
+  },
+  "template_item": "minecraft:water_bucket"
+}

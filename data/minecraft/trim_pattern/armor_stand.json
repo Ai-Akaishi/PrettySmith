@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:armor_stand",
+  "description": {
+    "translate": "trim_pattern.minecraft.armor_stand"
+  },
+  "template_item": "minecraft:armor_stand"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "orange_stained_glass",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.orange_stained_glass"
+  },
+  "ingredient": "minecraft:orange_stained_glass",
+  "item_model_index": 1.0
+}

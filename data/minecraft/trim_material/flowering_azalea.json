@@ -1,0 +1,9 @@
+{
+  "asset_name": "flowering_azalea",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.flowering_azalea"
+  },
+  "ingredient": "minecraft:flowering_azalea",
+  "item_model_index": 1.0
+}

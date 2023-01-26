@@ -1,0 +1,9 @@
+{
+  "asset_name": "cocoa_beans",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cocoa_beans"
+  },
+  "ingredient": "minecraft:cocoa_beans",
+  "item_model_index": 1.0
+}

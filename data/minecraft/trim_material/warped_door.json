@@ -1,0 +1,9 @@
+{
+  "asset_name": "warped_door",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.warped_door"
+  },
+  "ingredient": "minecraft:warped_door",
+  "item_model_index": 1.0
+}

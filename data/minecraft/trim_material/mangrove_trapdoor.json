@@ -1,0 +1,9 @@
+{
+  "asset_name": "mangrove_trapdoor",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.mangrove_trapdoor"
+  },
+  "ingredient": "minecraft:mangrove_trapdoor",
+  "item_model_index": 1.0
+}

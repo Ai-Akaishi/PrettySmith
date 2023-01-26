@@ -1,0 +1,9 @@
+{
+  "asset_name": "bamboo",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.bamboo"
+  },
+  "ingredient": "minecraft:bamboo",
+  "item_model_index": 1.0
+}

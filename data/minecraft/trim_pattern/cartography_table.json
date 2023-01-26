@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cartography_table",
+  "description": {
+    "translate": "trim_pattern.minecraft.cartography_table"
+  },
+  "template_item": "minecraft:cartography_table"
+}

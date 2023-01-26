@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:birch_log",
+  "description": {
+    "translate": "trim_pattern.minecraft.birch_log"
+  },
+  "template_item": "minecraft:birch_log"
+}

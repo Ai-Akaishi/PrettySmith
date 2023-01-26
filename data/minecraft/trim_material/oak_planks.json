@@ -1,0 +1,9 @@
+{
+  "asset_name": "oak_planks",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.oak_planks"
+  },
+  "ingredient": "minecraft:oak_planks",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "acacia_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.acacia_stairs"
+  },
+  "ingredient": "minecraft:acacia_stairs",
+  "item_model_index": 1.0
+}

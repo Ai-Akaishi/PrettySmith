@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:husk_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.husk_spawn_egg"
+  },
+  "template_item": "minecraft:husk_spawn_egg"
+}

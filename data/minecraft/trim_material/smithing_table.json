@@ -1,0 +1,9 @@
+{
+  "asset_name": "smithing_table",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.smithing_table"
+  },
+  "ingredient": "minecraft:smithing_table",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:beetroot_seeds",
+  "description": {
+    "translate": "trim_pattern.minecraft.beetroot_seeds"
+  },
+  "template_item": "minecraft:beetroot_seeds"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "purple_terracotta",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.purple_terracotta"
+  },
+  "ingredient": "minecraft:purple_terracotta",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:note_block",
+  "description": {
+    "translate": "trim_pattern.minecraft.note_block"
+  },
+  "template_item": "minecraft:note_block"
+}

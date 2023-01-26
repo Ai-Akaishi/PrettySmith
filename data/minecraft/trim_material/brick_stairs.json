@@ -1,0 +1,9 @@
+{
+  "asset_name": "brick_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.brick_stairs"
+  },
+  "ingredient": "minecraft:brick_stairs",
+  "item_model_index": 1.0
+}

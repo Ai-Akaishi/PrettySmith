@@ -1,0 +1,9 @@
+{
+  "asset_name": "jungle_trapdoor",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.jungle_trapdoor"
+  },
+  "ingredient": "minecraft:jungle_trapdoor",
+  "item_model_index": 1.0
+}

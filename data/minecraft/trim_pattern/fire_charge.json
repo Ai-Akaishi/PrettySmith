@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:fire_charge",
+  "description": {
+    "translate": "trim_pattern.minecraft.fire_charge"
+  },
+  "template_item": "minecraft:fire_charge"
+}

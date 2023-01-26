@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:poisonous_potato",
+  "description": {
+    "translate": "trim_pattern.minecraft.poisonous_potato"
+  },
+  "template_item": "minecraft:poisonous_potato"
+}

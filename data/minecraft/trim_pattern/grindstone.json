@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:grindstone",
+  "description": {
+    "translate": "trim_pattern.minecraft.grindstone"
+  },
+  "template_item": "minecraft:grindstone"
+}

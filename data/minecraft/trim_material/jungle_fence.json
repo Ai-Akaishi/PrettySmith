@@ -1,0 +1,9 @@
+{
+  "asset_name": "jungle_fence",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.jungle_fence"
+  },
+  "ingredient": "minecraft:jungle_fence",
+  "item_model_index": 1.0
+}

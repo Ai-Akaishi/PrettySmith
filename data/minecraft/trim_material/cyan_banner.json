@@ -1,0 +1,9 @@
+{
+  "asset_name": "cyan_banner",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cyan_banner"
+  },
+  "ingredient": "minecraft:cyan_banner",
+  "item_model_index": 1.0
+}

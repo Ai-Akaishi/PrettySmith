@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:lily_of_the_valley",
+  "description": {
+    "translate": "trim_pattern.minecraft.lily_of_the_valley"
+  },
+  "template_item": "minecraft:lily_of_the_valley"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "sand",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.sand"
+  },
+  "ingredient": "minecraft:sand",
+  "item_model_index": 1.0
+}

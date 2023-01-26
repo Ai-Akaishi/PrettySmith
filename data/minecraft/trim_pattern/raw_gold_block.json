@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:raw_gold_block",
+  "description": {
+    "translate": "trim_pattern.minecraft.raw_gold_block"
+  },
+  "template_item": "minecraft:raw_gold_block"
+}

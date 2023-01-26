@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:ink_sac",
+  "description": {
+    "translate": "trim_pattern.minecraft.ink_sac"
+  },
+  "template_item": "minecraft:ink_sac"
+}

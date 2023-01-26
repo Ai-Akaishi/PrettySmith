@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:jigsaw",
+  "description": {
+    "translate": "trim_pattern.minecraft.jigsaw"
+  },
+  "template_item": "minecraft:jigsaw"
+}

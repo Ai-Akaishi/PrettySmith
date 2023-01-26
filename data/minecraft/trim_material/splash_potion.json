@@ -1,0 +1,9 @@
+{
+  "asset_name": "splash_potion",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.splash_potion"
+  },
+  "ingredient": "minecraft:splash_potion",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "crimson_button",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.crimson_button"
+  },
+  "ingredient": "minecraft:crimson_button",
+  "item_model_index": 1.0
+}

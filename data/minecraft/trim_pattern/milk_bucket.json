@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:milk_bucket",
+  "description": {
+    "translate": "trim_pattern.minecraft.milk_bucket"
+  },
+  "template_item": "minecraft:milk_bucket"
+}

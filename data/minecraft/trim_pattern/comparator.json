@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:comparator",
+  "description": {
+    "translate": "trim_pattern.minecraft.comparator"
+  },
+  "template_item": "minecraft:comparator"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:clock",
+  "description": {
+    "translate": "trim_pattern.minecraft.clock"
+  },
+  "template_item": "minecraft:clock"
+}

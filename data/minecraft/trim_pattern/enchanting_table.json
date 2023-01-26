@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:enchanting_table",
+  "description": {
+    "translate": "trim_pattern.minecraft.enchanting_table"
+  },
+  "template_item": "minecraft:enchanting_table"
+}

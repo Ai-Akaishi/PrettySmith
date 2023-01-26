@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:dried_kelp_block",
+  "description": {
+    "translate": "trim_pattern.minecraft.dried_kelp_block"
+  },
+  "template_item": "minecraft:dried_kelp_block"
+}

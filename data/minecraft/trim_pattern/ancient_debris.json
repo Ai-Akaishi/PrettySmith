@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:ancient_debris",
+  "description": {
+    "translate": "trim_pattern.minecraft.ancient_debris"
+  },
+  "template_item": "minecraft:ancient_debris"
+}

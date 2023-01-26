@@ -1,0 +1,9 @@
+{
+  "asset_name": "acacia_sign",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.acacia_sign"
+  },
+  "ingredient": "minecraft:acacia_sign",
+  "item_model_index": 1.0
+}

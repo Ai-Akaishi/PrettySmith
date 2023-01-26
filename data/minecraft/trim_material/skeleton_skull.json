@@ -1,0 +1,9 @@
+{
+  "asset_name": "skeleton_skull",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.skeleton_skull"
+  },
+  "ingredient": "minecraft:skeleton_skull",
+  "item_model_index": 1.0
+}

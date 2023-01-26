@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:blue_ice",
+  "description": {
+    "translate": "trim_pattern.minecraft.blue_ice"
+  },
+  "template_item": "minecraft:blue_ice"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:player_head",
+  "description": {
+    "translate": "trim_pattern.minecraft.player_head"
+  },
+  "template_item": "minecraft:player_head"
+}

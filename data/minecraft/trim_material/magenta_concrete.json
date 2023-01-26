@@ -1,0 +1,9 @@
+{
+  "asset_name": "magenta_concrete",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.magenta_concrete"
+  },
+  "ingredient": "minecraft:magenta_concrete",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:powder_snow_bucket",
+  "description": {
+    "translate": "trim_pattern.minecraft.powder_snow_bucket"
+  },
+  "template_item": "minecraft:powder_snow_bucket"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:petrified_oak_slab",
+  "description": {
+    "translate": "trim_pattern.minecraft.petrified_oak_slab"
+  },
+  "template_item": "minecraft:petrified_oak_slab"
+}

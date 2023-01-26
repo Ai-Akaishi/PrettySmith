@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:glow_item_frame",
+  "description": {
+    "translate": "trim_pattern.minecraft.glow_item_frame"
+  },
+  "template_item": "minecraft:glow_item_frame"
+}

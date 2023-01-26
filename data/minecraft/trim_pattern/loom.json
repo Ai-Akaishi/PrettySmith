@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:loom",
+  "description": {
+    "translate": "trim_pattern.minecraft.loom"
+  },
+  "template_item": "minecraft:loom"
+}

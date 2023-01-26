@@ -1,0 +1,9 @@
+{
+  "asset_name": "brick_slab",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.brick_slab"
+  },
+  "ingredient": "minecraft:brick_slab",
+  "item_model_index": 1.0
+}

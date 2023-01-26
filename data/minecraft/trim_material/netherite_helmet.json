@@ -1,0 +1,9 @@
+{
+  "asset_name": "netherite_helmet",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.netherite_helmet"
+  },
+  "ingredient": "minecraft:netherite_helmet",
+  "item_model_index": 1.0
+}

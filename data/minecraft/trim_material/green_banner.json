@@ -1,0 +1,9 @@
+{
+  "asset_name": "green_banner",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.green_banner"
+  },
+  "ingredient": "minecraft:green_banner",
+  "item_model_index": 1.0
+}

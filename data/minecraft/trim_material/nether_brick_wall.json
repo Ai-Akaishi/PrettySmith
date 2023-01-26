@@ -1,0 +1,9 @@
+{
+  "asset_name": "nether_brick_wall",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.nether_brick_wall"
+  },
+  "ingredient": "minecraft:nether_brick_wall",
+  "item_model_index": 1.0
+}

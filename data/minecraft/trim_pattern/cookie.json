@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cookie",
+  "description": {
+    "translate": "trim_pattern.minecraft.cookie"
+  },
+  "template_item": "minecraft:cookie"
+}

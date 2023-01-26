@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:mojang_banner_pattern",
+  "description": {
+    "translate": "trim_pattern.minecraft.mojang_banner_pattern"
+  },
+  "template_item": "minecraft:mojang_banner_pattern"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "glow_berries",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.glow_berries"
+  },
+  "ingredient": "minecraft:glow_berries",
+  "item_model_index": 1.0
+}

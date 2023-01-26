@@ -1,0 +1,9 @@
+{
+  "asset_name": "netherite_ingot",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.netherite_ingot"
+  },
+  "ingredient": "minecraft:netherite_ingot",
+  "item_model_index": 1.0
+}

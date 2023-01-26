@@ -1,0 +1,9 @@
+{
+  "asset_name": "green_concrete",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.green_concrete"
+  },
+  "ingredient": "minecraft:green_concrete",
+  "item_model_index": 1.0
+}

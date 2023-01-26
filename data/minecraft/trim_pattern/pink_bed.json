@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:pink_bed",
+  "description": {
+    "translate": "trim_pattern.minecraft.pink_bed"
+  },
+  "template_item": "minecraft:pink_bed"
+}

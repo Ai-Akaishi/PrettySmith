@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:nether_bricks",
+  "description": {
+    "translate": "trim_pattern.minecraft.nether_bricks"
+  },
+  "template_item": "minecraft:nether_bricks"
+}

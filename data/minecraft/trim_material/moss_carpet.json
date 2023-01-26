@@ -1,0 +1,9 @@
+{
+  "asset_name": "moss_carpet",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.moss_carpet"
+  },
+  "ingredient": "minecraft:moss_carpet",
+  "item_model_index": 1.0
+}

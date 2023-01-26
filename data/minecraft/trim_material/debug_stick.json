@@ -1,0 +1,9 @@
+{
+  "asset_name": "debug_stick",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.debug_stick"
+  },
+  "ingredient": "minecraft:debug_stick",
+  "item_model_index": 1.0
+}

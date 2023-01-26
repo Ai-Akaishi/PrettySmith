@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cracked_deepslate_tiles",
+  "description": {
+    "translate": "trim_pattern.minecraft.cracked_deepslate_tiles"
+  },
+  "template_item": "minecraft:cracked_deepslate_tiles"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "oak_leaves",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.oak_leaves"
+  },
+  "ingredient": "minecraft:oak_leaves",
+  "item_model_index": 1.0
+}

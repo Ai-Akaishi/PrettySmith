@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:acacia_door",
+  "description": {
+    "translate": "trim_pattern.minecraft.acacia_door"
+  },
+  "template_item": "minecraft:acacia_door"
+}

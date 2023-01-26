@@ -1,0 +1,9 @@
+{
+  "asset_name": "magenta_banner",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.magenta_banner"
+  },
+  "ingredient": "minecraft:magenta_banner",
+  "item_model_index": 1.0
+}

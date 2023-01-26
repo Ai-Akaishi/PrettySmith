@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:shield",
+  "description": {
+    "translate": "trim_pattern.minecraft.shield"
+  },
+  "template_item": "minecraft:shield"
+}

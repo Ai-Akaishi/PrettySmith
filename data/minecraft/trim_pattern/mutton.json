@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:mutton",
+  "description": {
+    "translate": "trim_pattern.minecraft.mutton"
+  },
+  "template_item": "minecraft:mutton"
+}

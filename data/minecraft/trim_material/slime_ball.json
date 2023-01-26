@@ -1,0 +1,9 @@
+{
+  "asset_name": "slime_ball",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.slime_ball"
+  },
+  "ingredient": "minecraft:slime_ball",
+  "item_model_index": 1.0
+}

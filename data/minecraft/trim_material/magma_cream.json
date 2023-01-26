@@ -1,0 +1,9 @@
+{
+  "asset_name": "magma_cream",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.magma_cream"
+  },
+  "ingredient": "minecraft:magma_cream",
+  "item_model_index": 1.0
+}

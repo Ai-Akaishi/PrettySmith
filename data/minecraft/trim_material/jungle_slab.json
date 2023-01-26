@@ -1,0 +1,9 @@
+{
+  "asset_name": "jungle_slab",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.jungle_slab"
+  },
+  "ingredient": "minecraft:jungle_slab",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:sugar",
+  "description": {
+    "translate": "trim_pattern.minecraft.sugar"
+  },
+  "template_item": "minecraft:sugar"
+}

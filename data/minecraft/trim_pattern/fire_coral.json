@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:fire_coral",
+  "description": {
+    "translate": "trim_pattern.minecraft.fire_coral"
+  },
+  "template_item": "minecraft:fire_coral"
+}

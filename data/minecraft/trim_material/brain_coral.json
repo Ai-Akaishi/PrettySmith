@@ -1,0 +1,9 @@
+{
+  "asset_name": "brain_coral",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.brain_coral"
+  },
+  "ingredient": "minecraft:brain_coral",
+  "item_model_index": 1.0
+}

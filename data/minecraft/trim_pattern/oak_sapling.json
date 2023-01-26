@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:oak_sapling",
+  "description": {
+    "translate": "trim_pattern.minecraft.oak_sapling"
+  },
+  "template_item": "minecraft:oak_sapling"
+}

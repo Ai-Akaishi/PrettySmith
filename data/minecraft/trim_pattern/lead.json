@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:lead",
+  "description": {
+    "translate": "trim_pattern.minecraft.lead"
+  },
+  "template_item": "minecraft:lead"
+}

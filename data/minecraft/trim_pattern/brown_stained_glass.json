@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:brown_stained_glass",
+  "description": {
+    "translate": "trim_pattern.minecraft.brown_stained_glass"
+  },
+  "template_item": "minecraft:brown_stained_glass"
+}

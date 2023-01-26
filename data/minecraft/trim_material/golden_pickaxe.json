@@ -1,0 +1,9 @@
+{
+  "asset_name": "golden_pickaxe",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.golden_pickaxe"
+  },
+  "ingredient": "minecraft:golden_pickaxe",
+  "item_model_index": 1.0
+}

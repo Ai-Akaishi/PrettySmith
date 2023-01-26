@@ -1,0 +1,9 @@
+{
+  "asset_name": "sea_lantern",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.sea_lantern"
+  },
+  "ingredient": "minecraft:sea_lantern",
+  "item_model_index": 1.0
+}

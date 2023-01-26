@@ -1,0 +1,9 @@
+{
+  "asset_name": "mangrove_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.mangrove_stairs"
+  },
+  "ingredient": "minecraft:mangrove_stairs",
+  "item_model_index": 1.0
+}

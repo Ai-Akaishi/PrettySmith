@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:oak_sign",
+  "description": {
+    "translate": "trim_pattern.minecraft.oak_sign"
+  },
+  "template_item": "minecraft:oak_sign"
+}

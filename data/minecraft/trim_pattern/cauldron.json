@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cauldron",
+  "description": {
+    "translate": "trim_pattern.minecraft.cauldron"
+  },
+  "template_item": "minecraft:cauldron"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:axolotl_bucket",
+  "description": {
+    "translate": "trim_pattern.minecraft.axolotl_bucket"
+  },
+  "template_item": "minecraft:axolotl_bucket"
+}

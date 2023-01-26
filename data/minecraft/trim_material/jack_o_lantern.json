@@ -1,0 +1,9 @@
+{
+  "asset_name": "jack_o_lantern",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.jack_o_lantern"
+  },
+  "ingredient": "minecraft:jack_o_lantern",
+  "item_model_index": 1.0
+}

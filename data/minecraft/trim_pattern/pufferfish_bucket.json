@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:pufferfish_bucket",
+  "description": {
+    "translate": "trim_pattern.minecraft.pufferfish_bucket"
+  },
+  "template_item": "minecraft:pufferfish_bucket"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "redstone_ore",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.redstone_ore"
+  },
+  "ingredient": "minecraft:redstone_ore",
+  "item_model_index": 1.0
+}

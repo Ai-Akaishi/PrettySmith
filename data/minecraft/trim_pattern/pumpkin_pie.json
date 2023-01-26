@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:pumpkin_pie",
+  "description": {
+    "translate": "trim_pattern.minecraft.pumpkin_pie"
+  },
+  "template_item": "minecraft:pumpkin_pie"
+}

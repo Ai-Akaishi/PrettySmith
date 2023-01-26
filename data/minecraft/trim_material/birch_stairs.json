@@ -1,0 +1,9 @@
+{
+  "asset_name": "birch_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.birch_stairs"
+  },
+  "ingredient": "minecraft:birch_stairs",
+  "item_model_index": 1.0
+}

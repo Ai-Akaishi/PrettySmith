@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:white_tulip",
+  "description": {
+    "translate": "trim_pattern.minecraft.white_tulip"
+  },
+  "template_item": "minecraft:white_tulip"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:vindicator_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.vindicator_spawn_egg"
+  },
+  "template_item": "minecraft:vindicator_spawn_egg"
+}

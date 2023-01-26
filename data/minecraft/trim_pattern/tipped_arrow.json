@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:tipped_arrow",
+  "description": {
+    "translate": "trim_pattern.minecraft.tipped_arrow"
+  },
+  "template_item": "minecraft:tipped_arrow"
+}

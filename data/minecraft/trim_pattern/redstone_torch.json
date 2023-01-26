@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:redstone_torch",
+  "description": {
+    "translate": "trim_pattern.minecraft.redstone_torch"
+  },
+  "template_item": "minecraft:redstone_torch"
+}

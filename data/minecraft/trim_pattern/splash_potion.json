@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:splash_potion",
+  "description": {
+    "translate": "trim_pattern.minecraft.splash_potion"
+  },
+  "template_item": "minecraft:splash_potion"
+}

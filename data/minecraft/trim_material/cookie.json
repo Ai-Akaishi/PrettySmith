@@ -1,0 +1,9 @@
+{
+  "asset_name": "cookie",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cookie"
+  },
+  "ingredient": "minecraft:cookie",
+  "item_model_index": 1.0
+}

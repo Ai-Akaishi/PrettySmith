@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:lime_concrete_powder",
+  "description": {
+    "translate": "trim_pattern.minecraft.lime_concrete_powder"
+  },
+  "template_item": "minecraft:lime_concrete_powder"
+}

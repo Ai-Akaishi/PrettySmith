@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:red_wool",
+  "description": {
+    "translate": "trim_pattern.minecraft.red_wool"
+  },
+  "template_item": "minecraft:red_wool"
+}

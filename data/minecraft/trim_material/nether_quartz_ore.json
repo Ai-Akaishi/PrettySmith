@@ -1,0 +1,9 @@
+{
+  "asset_name": "nether_quartz_ore",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.nether_quartz_ore"
+  },
+  "ingredient": "minecraft:nether_quartz_ore",
+  "item_model_index": 1.0
+}

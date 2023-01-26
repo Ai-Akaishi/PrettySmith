@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cyan_stained_glass",
+  "description": {
+    "translate": "trim_pattern.minecraft.cyan_stained_glass"
+  },
+  "template_item": "minecraft:cyan_stained_glass"
+}

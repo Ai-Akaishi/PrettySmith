@@ -1,0 +1,9 @@
+{
+  "asset_name": "pumpkin_seeds",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.pumpkin_seeds"
+  },
+  "ingredient": "minecraft:pumpkin_seeds",
+  "item_model_index": 1.0
+}

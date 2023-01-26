@@ -1,0 +1,9 @@
+{
+  "asset_name": "soul_lantern",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.soul_lantern"
+  },
+  "ingredient": "minecraft:soul_lantern",
+  "item_model_index": 1.0
+}

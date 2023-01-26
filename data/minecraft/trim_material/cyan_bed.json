@@ -1,0 +1,9 @@
+{
+  "asset_name": "cyan_bed",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cyan_bed"
+  },
+  "ingredient": "minecraft:cyan_bed",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:smooth_red_sandstone",
+  "description": {
+    "translate": "trim_pattern.minecraft.smooth_red_sandstone"
+  },
+  "template_item": "minecraft:smooth_red_sandstone"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "tropical_fish",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.tropical_fish"
+  },
+  "ingredient": "minecraft:tropical_fish",
+  "item_model_index": 1.0
+}

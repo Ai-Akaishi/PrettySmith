@@ -1,0 +1,9 @@
+{
+  "asset_name": "black_concrete_powder",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.black_concrete_powder"
+  },
+  "ingredient": "minecraft:black_concrete_powder",
+  "item_model_index": 1.0
+}

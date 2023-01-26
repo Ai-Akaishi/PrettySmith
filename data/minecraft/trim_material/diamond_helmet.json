@@ -1,0 +1,9 @@
+{
+  "asset_name": "diamond_helmet",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.diamond_helmet"
+  },
+  "ingredient": "minecraft:diamond_helmet",
+  "item_model_index": 1.0
+}

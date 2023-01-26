@@ -1,0 +1,9 @@
+{
+  "asset_name": "acacia_leaves",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.acacia_leaves"
+  },
+  "ingredient": "minecraft:acacia_leaves",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:yellow_carpet",
+  "description": {
+    "translate": "trim_pattern.minecraft.yellow_carpet"
+  },
+  "template_item": "minecraft:yellow_carpet"
+}

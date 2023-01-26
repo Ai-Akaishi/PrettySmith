@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:gunpowder",
+  "description": {
+    "translate": "trim_pattern.minecraft.gunpowder"
+  },
+  "template_item": "minecraft:gunpowder"
+}

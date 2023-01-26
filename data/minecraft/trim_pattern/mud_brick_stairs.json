@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:mud_brick_stairs",
+  "description": {
+    "translate": "trim_pattern.minecraft.mud_brick_stairs"
+  },
+  "template_item": "minecraft:mud_brick_stairs"
+}

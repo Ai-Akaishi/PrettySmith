@@ -1,0 +1,9 @@
+{
+  "asset_name": "reinforced_deepslate",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.reinforced_deepslate"
+  },
+  "ingredient": "minecraft:reinforced_deepslate",
+  "item_model_index": 1.0
+}

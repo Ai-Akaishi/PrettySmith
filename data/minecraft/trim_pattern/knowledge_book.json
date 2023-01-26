@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:knowledge_book",
+  "description": {
+    "translate": "trim_pattern.minecraft.knowledge_book"
+  },
+  "template_item": "minecraft:knowledge_book"
+}

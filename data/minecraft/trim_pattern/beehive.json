@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:beehive",
+  "description": {
+    "translate": "trim_pattern.minecraft.beehive"
+  },
+  "template_item": "minecraft:beehive"
+}

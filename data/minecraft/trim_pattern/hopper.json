@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:hopper",
+  "description": {
+    "translate": "trim_pattern.minecraft.hopper"
+  },
+  "template_item": "minecraft:hopper"
+}

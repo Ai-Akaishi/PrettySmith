@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:green_concrete",
+  "description": {
+    "translate": "trim_pattern.minecraft.green_concrete"
+  },
+  "template_item": "minecraft:green_concrete"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:item_frame",
+  "description": {
+    "translate": "trim_pattern.minecraft.item_frame"
+  },
+  "template_item": "minecraft:item_frame"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "bamboo_pressure_plate",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.bamboo_pressure_plate"
+  },
+  "ingredient": "minecraft:bamboo_pressure_plate",
+  "item_model_index": 1.0
+}

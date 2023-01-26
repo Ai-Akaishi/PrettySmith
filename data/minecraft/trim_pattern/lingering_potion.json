@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:lingering_potion",
+  "description": {
+    "translate": "trim_pattern.minecraft.lingering_potion"
+  },
+  "template_item": "minecraft:lingering_potion"
+}

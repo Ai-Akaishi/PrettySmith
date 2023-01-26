@@ -1,0 +1,9 @@
+{
+  "asset_name": "cyan_candle",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cyan_candle"
+  },
+  "ingredient": "minecraft:cyan_candle",
+  "item_model_index": 1.0
+}

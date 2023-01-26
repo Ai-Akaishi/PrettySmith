@@ -1,0 +1,9 @@
+{
+  "asset_name": "structure_void",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.structure_void"
+  },
+  "ingredient": "minecraft:structure_void",
+  "item_model_index": 1.0
+}

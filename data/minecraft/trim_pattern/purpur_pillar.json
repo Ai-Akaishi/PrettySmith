@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:purpur_pillar",
+  "description": {
+    "translate": "trim_pattern.minecraft.purpur_pillar"
+  },
+  "template_item": "minecraft:purpur_pillar"
+}

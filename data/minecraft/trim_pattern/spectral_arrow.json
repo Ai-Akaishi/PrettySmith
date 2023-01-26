@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:spectral_arrow",
+  "description": {
+    "translate": "trim_pattern.minecraft.spectral_arrow"
+  },
+  "template_item": "minecraft:spectral_arrow"
+}

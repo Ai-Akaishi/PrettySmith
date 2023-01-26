@@ -1,0 +1,9 @@
+{
+  "asset_name": "flower_banner_pattern",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.flower_banner_pattern"
+  },
+  "ingredient": "minecraft:flower_banner_pattern",
+  "item_model_index": 1.0
+}

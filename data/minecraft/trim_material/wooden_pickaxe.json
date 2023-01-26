@@ -1,0 +1,9 @@
+{
+  "asset_name": "wooden_pickaxe",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.wooden_pickaxe"
+  },
+  "ingredient": "minecraft:wooden_pickaxe",
+  "item_model_index": 1.0
+}

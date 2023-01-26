@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:stone_sword",
+  "description": {
+    "translate": "trim_pattern.minecraft.stone_sword"
+  },
+  "template_item": "minecraft:stone_sword"
+}

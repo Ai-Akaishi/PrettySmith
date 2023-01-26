@@ -1,0 +1,9 @@
+{
+  "asset_name": "cyan_shulker_box",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cyan_shulker_box"
+  },
+  "ingredient": "minecraft:cyan_shulker_box",
+  "item_model_index": 1.0
+}

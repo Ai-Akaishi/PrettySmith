@@ -1,0 +1,9 @@
+{
+  "asset_name": "lime_dye",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.lime_dye"
+  },
+  "ingredient": "minecraft:lime_dye",
+  "item_model_index": 1.0
+}

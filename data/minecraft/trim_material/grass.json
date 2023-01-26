@@ -1,0 +1,9 @@
+{
+  "asset_name": "grass",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.grass"
+  },
+  "ingredient": "minecraft:grass",
+  "item_model_index": 1.0
+}

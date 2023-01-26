@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:yellow_concrete",
+  "description": {
+    "translate": "trim_pattern.minecraft.yellow_concrete"
+  },
+  "template_item": "minecraft:yellow_concrete"
+}

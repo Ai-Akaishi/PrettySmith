@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:wandering_trader_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.wandering_trader_spawn_egg"
+  },
+  "template_item": "minecraft:wandering_trader_spawn_egg"
+}

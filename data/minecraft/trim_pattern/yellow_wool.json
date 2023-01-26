@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:yellow_wool",
+  "description": {
+    "translate": "trim_pattern.minecraft.yellow_wool"
+  },
+  "template_item": "minecraft:yellow_wool"
+}

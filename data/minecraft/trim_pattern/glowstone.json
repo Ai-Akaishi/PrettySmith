@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:glowstone",
+  "description": {
+    "translate": "trim_pattern.minecraft.glowstone"
+  },
+  "template_item": "minecraft:glowstone"
+}

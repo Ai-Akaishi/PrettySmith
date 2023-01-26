@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:potion",
+  "description": {
+    "translate": "trim_pattern.minecraft.potion"
+  },
+  "template_item": "minecraft:potion"
+}

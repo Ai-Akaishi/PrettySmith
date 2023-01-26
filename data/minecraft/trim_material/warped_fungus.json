@@ -1,0 +1,9 @@
+{
+  "asset_name": "warped_fungus",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.warped_fungus"
+  },
+  "ingredient": "minecraft:warped_fungus",
+  "item_model_index": 1.0
+}

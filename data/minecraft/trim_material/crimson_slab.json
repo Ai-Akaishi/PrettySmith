@@ -1,0 +1,9 @@
+{
+  "asset_name": "crimson_slab",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.crimson_slab"
+  },
+  "ingredient": "minecraft:crimson_slab",
+  "item_model_index": 1.0
+}

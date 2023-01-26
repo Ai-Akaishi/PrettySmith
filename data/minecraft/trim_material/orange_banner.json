@@ -1,0 +1,9 @@
+{
+  "asset_name": "orange_banner",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.orange_banner"
+  },
+  "ingredient": "minecraft:orange_banner",
+  "item_model_index": 1.0
+}

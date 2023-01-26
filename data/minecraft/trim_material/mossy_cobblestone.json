@@ -1,0 +1,9 @@
+{
+  "asset_name": "mossy_cobblestone",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.mossy_cobblestone"
+  },
+  "ingredient": "minecraft:mossy_cobblestone",
+  "item_model_index": 1.0
+}

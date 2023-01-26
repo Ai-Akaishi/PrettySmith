@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bone_meal",
+  "description": {
+    "translate": "trim_pattern.minecraft.bone_meal"
+  },
+  "template_item": "minecraft:bone_meal"
+}

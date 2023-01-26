@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:warped_stairs",
+  "description": {
+    "translate": "trim_pattern.minecraft.warped_stairs"
+  },
+  "template_item": "minecraft:warped_stairs"
+}

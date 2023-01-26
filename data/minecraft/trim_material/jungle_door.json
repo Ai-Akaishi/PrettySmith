@@ -1,0 +1,9 @@
+{
+  "asset_name": "jungle_door",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.jungle_door"
+  },
+  "ingredient": "minecraft:jungle_door",
+  "item_model_index": 1.0
+}

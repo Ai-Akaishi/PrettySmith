@@ -1,0 +1,9 @@
+{
+  "asset_name": "lingering_potion",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.lingering_potion"
+  },
+  "ingredient": "minecraft:lingering_potion",
+  "item_model_index": 1.0
+}

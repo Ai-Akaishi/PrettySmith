@@ -1,0 +1,9 @@
+{
+  "asset_name": "shroomlight",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.shroomlight"
+  },
+  "ingredient": "minecraft:shroomlight",
+  "item_model_index": 1.0
+}

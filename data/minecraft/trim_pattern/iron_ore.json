@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:iron_ore",
+  "description": {
+    "translate": "trim_pattern.minecraft.iron_ore"
+  },
+  "template_item": "minecraft:iron_ore"
+}

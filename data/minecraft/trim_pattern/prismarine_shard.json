@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:prismarine_shard",
+  "description": {
+    "translate": "trim_pattern.minecraft.prismarine_shard"
+  },
+  "template_item": "minecraft:prismarine_shard"
+}

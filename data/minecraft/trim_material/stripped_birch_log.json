@@ -1,0 +1,9 @@
+{
+  "asset_name": "stripped_birch_log",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.stripped_birch_log"
+  },
+  "ingredient": "minecraft:stripped_birch_log",
+  "item_model_index": 1.0
+}

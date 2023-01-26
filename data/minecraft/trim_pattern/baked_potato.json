@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:baked_potato",
+  "description": {
+    "translate": "trim_pattern.minecraft.baked_potato"
+  },
+  "template_item": "minecraft:baked_potato"
+}

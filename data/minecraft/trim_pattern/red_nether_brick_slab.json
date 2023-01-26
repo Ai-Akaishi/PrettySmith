@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:red_nether_brick_slab",
+  "description": {
+    "translate": "trim_pattern.minecraft.red_nether_brick_slab"
+  },
+  "template_item": "minecraft:red_nether_brick_slab"
+}

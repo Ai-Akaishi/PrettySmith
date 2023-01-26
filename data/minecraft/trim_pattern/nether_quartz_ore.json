@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:nether_quartz_ore",
+  "description": {
+    "translate": "trim_pattern.minecraft.nether_quartz_ore"
+  },
+  "template_item": "minecraft:nether_quartz_ore"
+}

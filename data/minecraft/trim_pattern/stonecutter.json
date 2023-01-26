@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:stonecutter",
+  "description": {
+    "translate": "trim_pattern.minecraft.stonecutter"
+  },
+  "template_item": "minecraft:stonecutter"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:allium",
+  "description": {
+    "translate": "trim_pattern.minecraft.allium"
+  },
+  "template_item": "minecraft:allium"
+}

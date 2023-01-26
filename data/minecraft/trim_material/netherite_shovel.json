@@ -1,0 +1,9 @@
+{
+  "asset_name": "netherite_shovel",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.netherite_shovel"
+  },
+  "ingredient": "minecraft:netherite_shovel",
+  "item_model_index": 1.0
+}

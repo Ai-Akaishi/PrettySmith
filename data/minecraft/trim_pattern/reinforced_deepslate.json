@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:reinforced_deepslate",
+  "description": {
+    "translate": "trim_pattern.minecraft.reinforced_deepslate"
+  },
+  "template_item": "minecraft:reinforced_deepslate"
+}

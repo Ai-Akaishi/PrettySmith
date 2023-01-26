@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:birch_trapdoor",
+  "description": {
+    "translate": "trim_pattern.minecraft.birch_trapdoor"
+  },
+  "template_item": "minecraft:birch_trapdoor"
+}

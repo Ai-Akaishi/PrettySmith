@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:stone_shovel",
+  "description": {
+    "translate": "trim_pattern.minecraft.stone_shovel"
+  },
+  "template_item": "minecraft:stone_shovel"
+}

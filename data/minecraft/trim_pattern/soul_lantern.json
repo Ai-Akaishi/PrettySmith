@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:soul_lantern",
+  "description": {
+    "translate": "trim_pattern.minecraft.soul_lantern"
+  },
+  "template_item": "minecraft:soul_lantern"
+}

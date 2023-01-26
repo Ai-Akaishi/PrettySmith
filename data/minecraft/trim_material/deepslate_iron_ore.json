@@ -1,0 +1,9 @@
+{
+  "asset_name": "deepslate_iron_ore",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.deepslate_iron_ore"
+  },
+  "ingredient": "minecraft:deepslate_iron_ore",
+  "item_model_index": 1.0
+}

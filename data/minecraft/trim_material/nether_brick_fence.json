@@ -1,0 +1,9 @@
+{
+  "asset_name": "nether_brick_fence",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.nether_brick_fence"
+  },
+  "ingredient": "minecraft:nether_brick_fence",
+  "item_model_index": 1.0
+}

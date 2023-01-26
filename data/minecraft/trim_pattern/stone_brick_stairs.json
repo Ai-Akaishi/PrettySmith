@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:stone_brick_stairs",
+  "description": {
+    "translate": "trim_pattern.minecraft.stone_brick_stairs"
+  },
+  "template_item": "minecraft:stone_brick_stairs"
+}

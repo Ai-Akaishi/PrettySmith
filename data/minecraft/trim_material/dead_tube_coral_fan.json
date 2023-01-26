@@ -1,0 +1,9 @@
+{
+  "asset_name": "dead_tube_coral_fan",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.dead_tube_coral_fan"
+  },
+  "ingredient": "minecraft:dead_tube_coral_fan",
+  "item_model_index": 1.0
+}

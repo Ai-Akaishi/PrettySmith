@@ -1,0 +1,9 @@
+{
+  "asset_name": "infested_deepslate",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.infested_deepslate"
+  },
+  "ingredient": "minecraft:infested_deepslate",
+  "item_model_index": 1.0
+}

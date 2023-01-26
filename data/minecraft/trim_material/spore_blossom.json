@@ -1,0 +1,9 @@
+{
+  "asset_name": "spore_blossom",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.spore_blossom"
+  },
+  "ingredient": "minecraft:spore_blossom",
+  "item_model_index": 1.0
+}

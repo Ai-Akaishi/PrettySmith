@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:acacia_wood",
+  "description": {
+    "translate": "trim_pattern.minecraft.acacia_wood"
+  },
+  "template_item": "minecraft:acacia_wood"
+}

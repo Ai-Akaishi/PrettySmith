@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:glow_squid_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.glow_squid_spawn_egg"
+  },
+  "template_item": "minecraft:glow_squid_spawn_egg"
+}

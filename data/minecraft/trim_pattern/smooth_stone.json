@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:smooth_stone",
+  "description": {
+    "translate": "trim_pattern.minecraft.smooth_stone"
+  },
+  "template_item": "minecraft:smooth_stone"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:andesite_wall",
+  "description": {
+    "translate": "trim_pattern.minecraft.andesite_wall"
+  },
+  "template_item": "minecraft:andesite_wall"
+}

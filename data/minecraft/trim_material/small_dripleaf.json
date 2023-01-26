@@ -1,0 +1,9 @@
+{
+  "asset_name": "small_dripleaf",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.small_dripleaf"
+  },
+  "ingredient": "minecraft:small_dripleaf",
+  "item_model_index": 1.0
+}

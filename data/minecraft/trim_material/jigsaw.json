@@ -1,0 +1,9 @@
+{
+  "asset_name": "jigsaw",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.jigsaw"
+  },
+  "ingredient": "minecraft:jigsaw",
+  "item_model_index": 1.0
+}

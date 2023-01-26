@@ -1,0 +1,9 @@
+{
+  "asset_name": "spruce_button",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.spruce_button"
+  },
+  "ingredient": "minecraft:spruce_button",
+  "item_model_index": 1.0
+}

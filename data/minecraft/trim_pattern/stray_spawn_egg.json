@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:stray_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.stray_spawn_egg"
+  },
+  "template_item": "minecraft:stray_spawn_egg"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:dirt",
+  "description": {
+    "translate": "trim_pattern.minecraft.dirt"
+  },
+  "template_item": "minecraft:dirt"
+}

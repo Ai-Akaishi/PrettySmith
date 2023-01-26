@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:enchanted_golden_apple",
+  "description": {
+    "translate": "trim_pattern.minecraft.enchanted_golden_apple"
+  },
+  "template_item": "minecraft:enchanted_golden_apple"
+}

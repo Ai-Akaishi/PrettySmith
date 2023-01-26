@@ -1,0 +1,9 @@
+{
+  "asset_name": "cow_spawn_egg",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cow_spawn_egg"
+  },
+  "ingredient": "minecraft:cow_spawn_egg",
+  "item_model_index": 1.0
+}

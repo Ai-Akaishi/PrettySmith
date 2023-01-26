@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:sugar_cane",
+  "description": {
+    "translate": "trim_pattern.minecraft.sugar_cane"
+  },
+  "template_item": "minecraft:sugar_cane"
+}

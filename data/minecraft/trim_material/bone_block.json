@@ -1,0 +1,9 @@
+{
+  "asset_name": "bone_block",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.bone_block"
+  },
+  "ingredient": "minecraft:bone_block",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "zombified_piglin_spawn_egg",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.zombified_piglin_spawn_egg"
+  },
+  "ingredient": "minecraft:zombified_piglin_spawn_egg",
+  "item_model_index": 1.0
+}

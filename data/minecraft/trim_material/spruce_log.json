@@ -1,0 +1,9 @@
+{
+  "asset_name": "spruce_log",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.spruce_log"
+  },
+  "ingredient": "minecraft:spruce_log",
+  "item_model_index": 1.0
+}

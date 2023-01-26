@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cut_copper",
+  "description": {
+    "translate": "trim_pattern.minecraft.cut_copper"
+  },
+  "template_item": "minecraft:cut_copper"
+}

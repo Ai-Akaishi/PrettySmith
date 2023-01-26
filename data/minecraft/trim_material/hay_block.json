@@ -1,0 +1,9 @@
+{
+  "asset_name": "hay_block",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.hay_block"
+  },
+  "ingredient": "minecraft:hay_block",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "crafting_table",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.crafting_table"
+  },
+  "ingredient": "minecraft:crafting_table",
+  "item_model_index": 1.0
+}

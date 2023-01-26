@@ -1,0 +1,9 @@
+{
+  "asset_name": "infested_stone",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.infested_stone"
+  },
+  "ingredient": "minecraft:infested_stone",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "spruce_leaves",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.spruce_leaves"
+  },
+  "ingredient": "minecraft:spruce_leaves",
+  "item_model_index": 1.0
+}

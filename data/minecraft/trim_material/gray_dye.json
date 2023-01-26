@@ -1,0 +1,9 @@
+{
+  "asset_name": "gray_dye",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.gray_dye"
+  },
+  "ingredient": "minecraft:gray_dye",
+  "item_model_index": 1.0
+}

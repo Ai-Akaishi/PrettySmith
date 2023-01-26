@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:villager_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.villager_spawn_egg"
+  },
+  "template_item": "minecraft:villager_spawn_egg"
+}

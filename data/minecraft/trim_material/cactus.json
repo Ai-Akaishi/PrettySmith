@@ -1,0 +1,9 @@
+{
+  "asset_name": "cactus",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cactus"
+  },
+  "ingredient": "minecraft:cactus",
+  "item_model_index": 1.0
+}

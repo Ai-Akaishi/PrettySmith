@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:chainmail_leggings",
+  "description": {
+    "translate": "trim_pattern.minecraft.chainmail_leggings"
+  },
+  "template_item": "minecraft:chainmail_leggings"
+}

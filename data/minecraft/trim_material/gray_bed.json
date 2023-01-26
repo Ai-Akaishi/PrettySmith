@@ -1,0 +1,9 @@
+{
+  "asset_name": "gray_bed",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.gray_bed"
+  },
+  "ingredient": "minecraft:gray_bed",
+  "item_model_index": 1.0
+}

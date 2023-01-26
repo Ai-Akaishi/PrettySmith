@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:wet_sponge",
+  "description": {
+    "translate": "trim_pattern.minecraft.wet_sponge"
+  },
+  "template_item": "minecraft:wet_sponge"
+}

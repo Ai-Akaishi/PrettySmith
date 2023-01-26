@@ -1,0 +1,9 @@
+{
+  "asset_name": "oxeye_daisy",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.oxeye_daisy"
+  },
+  "ingredient": "minecraft:oxeye_daisy",
+  "item_model_index": 1.0
+}

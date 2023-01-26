@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:suspicious_stew",
+  "description": {
+    "translate": "trim_pattern.minecraft.suspicious_stew"
+  },
+  "template_item": "minecraft:suspicious_stew"
+}

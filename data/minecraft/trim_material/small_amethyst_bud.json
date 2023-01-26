@@ -1,0 +1,9 @@
+{
+  "asset_name": "small_amethyst_bud",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.small_amethyst_bud"
+  },
+  "ingredient": "minecraft:small_amethyst_bud",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "weathered_cut_copper_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.weathered_cut_copper_stairs"
+  },
+  "ingredient": "minecraft:weathered_cut_copper_stairs",
+  "item_model_index": 1.0
+}

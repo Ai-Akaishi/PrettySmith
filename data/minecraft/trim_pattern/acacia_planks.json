@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:acacia_planks",
+  "description": {
+    "translate": "trim_pattern.minecraft.acacia_planks"
+  },
+  "template_item": "minecraft:acacia_planks"
+}

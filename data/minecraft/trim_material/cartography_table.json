@@ -1,0 +1,9 @@
+{
+  "asset_name": "cartography_table",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cartography_table"
+  },
+  "ingredient": "minecraft:cartography_table",
+  "item_model_index": 1.0
+}

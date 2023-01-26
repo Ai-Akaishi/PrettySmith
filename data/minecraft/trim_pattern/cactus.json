@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cactus",
+  "description": {
+    "translate": "trim_pattern.minecraft.cactus"
+  },
+  "template_item": "minecraft:cactus"
+}

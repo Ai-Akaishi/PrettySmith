@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:sculk_sensor",
+  "description": {
+    "translate": "trim_pattern.minecraft.sculk_sensor"
+  },
+  "template_item": "minecraft:sculk_sensor"
+}

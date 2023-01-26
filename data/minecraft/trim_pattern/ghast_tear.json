@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:ghast_tear",
+  "description": {
+    "translate": "trim_pattern.minecraft.ghast_tear"
+  },
+  "template_item": "minecraft:ghast_tear"
+}

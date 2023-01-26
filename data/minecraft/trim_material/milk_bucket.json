@@ -1,0 +1,9 @@
+{
+  "asset_name": "milk_bucket",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.milk_bucket"
+  },
+  "ingredient": "minecraft:milk_bucket",
+  "item_model_index": 1.0
+}

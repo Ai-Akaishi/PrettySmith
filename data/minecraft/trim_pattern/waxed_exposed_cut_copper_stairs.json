@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:waxed_exposed_cut_copper_stairs",
+  "description": {
+    "translate": "trim_pattern.minecraft.waxed_exposed_cut_copper_stairs"
+  },
+  "template_item": "minecraft:waxed_exposed_cut_copper_stairs"
+}

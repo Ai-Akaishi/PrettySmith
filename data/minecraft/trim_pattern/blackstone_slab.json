@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:blackstone_slab",
+  "description": {
+    "translate": "trim_pattern.minecraft.blackstone_slab"
+  },
+  "template_item": "minecraft:blackstone_slab"
+}

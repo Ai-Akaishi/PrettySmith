@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bubble_coral_block",
+  "description": {
+    "translate": "trim_pattern.minecraft.bubble_coral_block"
+  },
+  "template_item": "minecraft:bubble_coral_block"
+}

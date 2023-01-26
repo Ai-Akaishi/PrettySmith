@@ -1,0 +1,9 @@
+{
+  "asset_name": "bamboo_button",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.bamboo_button"
+  },
+  "ingredient": "minecraft:bamboo_button",
+  "item_model_index": 1.0
+}

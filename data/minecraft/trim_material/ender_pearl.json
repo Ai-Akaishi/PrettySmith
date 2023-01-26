@@ -1,0 +1,9 @@
+{
+  "asset_name": "ender_pearl",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.ender_pearl"
+  },
+  "ingredient": "minecraft:ender_pearl",
+  "item_model_index": 1.0
+}

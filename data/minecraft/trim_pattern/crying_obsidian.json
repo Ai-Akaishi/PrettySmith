@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:crying_obsidian",
+  "description": {
+    "translate": "trim_pattern.minecraft.crying_obsidian"
+  },
+  "template_item": "minecraft:crying_obsidian"
+}

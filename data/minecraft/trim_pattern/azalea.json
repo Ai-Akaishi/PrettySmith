@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:azalea",
+  "description": {
+    "translate": "trim_pattern.minecraft.azalea"
+  },
+  "template_item": "minecraft:azalea"
+}

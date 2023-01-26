@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:pink_banner",
+  "description": {
+    "translate": "trim_pattern.minecraft.pink_banner"
+  },
+  "template_item": "minecraft:pink_banner"
+}

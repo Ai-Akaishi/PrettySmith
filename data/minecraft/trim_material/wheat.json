@@ -1,0 +1,9 @@
+{
+  "asset_name": "wheat",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.wheat"
+  },
+  "ingredient": "minecraft:wheat",
+  "item_model_index": 1.0
+}

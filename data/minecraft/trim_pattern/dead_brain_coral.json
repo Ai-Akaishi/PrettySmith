@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:dead_brain_coral",
+  "description": {
+    "translate": "trim_pattern.minecraft.dead_brain_coral"
+  },
+  "template_item": "minecraft:dead_brain_coral"
+}

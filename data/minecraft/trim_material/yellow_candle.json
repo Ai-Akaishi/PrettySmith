@@ -1,0 +1,9 @@
+{
+  "asset_name": "yellow_candle",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.yellow_candle"
+  },
+  "ingredient": "minecraft:yellow_candle",
+  "item_model_index": 1.0
+}

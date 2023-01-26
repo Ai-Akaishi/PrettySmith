@@ -1,0 +1,9 @@
+{
+  "asset_name": "black_terracotta",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.black_terracotta"
+  },
+  "ingredient": "minecraft:black_terracotta",
+  "item_model_index": 1.0
+}

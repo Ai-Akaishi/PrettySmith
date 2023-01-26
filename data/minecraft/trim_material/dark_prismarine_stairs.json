@@ -1,0 +1,9 @@
+{
+  "asset_name": "dark_prismarine_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.dark_prismarine_stairs"
+  },
+  "ingredient": "minecraft:dark_prismarine_stairs",
+  "item_model_index": 1.0
+}

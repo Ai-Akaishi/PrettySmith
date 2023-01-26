@@ -1,0 +1,9 @@
+{
+  "asset_name": "polished_blackstone_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.polished_blackstone_stairs"
+  },
+  "ingredient": "minecraft:polished_blackstone_stairs",
+  "item_model_index": 1.0
+}

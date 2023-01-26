@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:rabbit_foot",
+  "description": {
+    "translate": "trim_pattern.minecraft.rabbit_foot"
+  },
+  "template_item": "minecraft:rabbit_foot"
+}

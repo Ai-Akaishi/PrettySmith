@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:blackstone",
+  "description": {
+    "translate": "trim_pattern.minecraft.blackstone"
+  },
+  "template_item": "minecraft:blackstone"
+}

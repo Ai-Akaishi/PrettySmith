@@ -1,0 +1,9 @@
+{
+  "asset_name": "stripped_crimson_hyphae",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.stripped_crimson_hyphae"
+  },
+  "ingredient": "minecraft:stripped_crimson_hyphae",
+  "item_model_index": 1.0
+}

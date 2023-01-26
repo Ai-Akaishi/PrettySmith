@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:respawn_anchor",
+  "description": {
+    "translate": "trim_pattern.minecraft.respawn_anchor"
+  },
+  "template_item": "minecraft:respawn_anchor"
+}

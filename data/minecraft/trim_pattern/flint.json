@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:flint",
+  "description": {
+    "translate": "trim_pattern.minecraft.flint"
+  },
+  "template_item": "minecraft:flint"
+}

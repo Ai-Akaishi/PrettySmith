@@ -1,0 +1,9 @@
+{
+  "asset_name": "dead_fire_coral",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.dead_fire_coral"
+  },
+  "ingredient": "minecraft:dead_fire_coral",
+  "item_model_index": 1.0
+}

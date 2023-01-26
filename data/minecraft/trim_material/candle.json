@@ -1,0 +1,9 @@
+{
+  "asset_name": "candle",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.candle"
+  },
+  "ingredient": "minecraft:candle",
+  "item_model_index": 1.0
+}

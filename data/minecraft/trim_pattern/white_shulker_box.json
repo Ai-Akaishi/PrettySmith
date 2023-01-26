@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:white_shulker_box",
+  "description": {
+    "translate": "trim_pattern.minecraft.white_shulker_box"
+  },
+  "template_item": "minecraft:white_shulker_box"
+}

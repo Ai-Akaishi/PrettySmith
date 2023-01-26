@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:carved_pumpkin",
+  "description": {
+    "translate": "trim_pattern.minecraft.carved_pumpkin"
+  },
+  "template_item": "minecraft:carved_pumpkin"
+}

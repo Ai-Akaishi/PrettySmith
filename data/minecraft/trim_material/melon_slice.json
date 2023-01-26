@@ -1,0 +1,9 @@
+{
+  "asset_name": "melon_slice",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.melon_slice"
+  },
+  "ingredient": "minecraft:melon_slice",
+  "item_model_index": 1.0
+}

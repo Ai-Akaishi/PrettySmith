@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:apple",
+  "description": {
+    "translate": "trim_pattern.minecraft.apple"
+  },
+  "template_item": "minecraft:apple"
+}

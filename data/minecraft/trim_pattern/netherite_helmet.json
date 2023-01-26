@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:netherite_helmet",
+  "description": {
+    "translate": "trim_pattern.minecraft.netherite_helmet"
+  },
+  "template_item": "minecraft:netherite_helmet"
+}

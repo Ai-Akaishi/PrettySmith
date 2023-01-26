@@ -1,0 +1,9 @@
+{
+  "asset_name": "black_banner",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.black_banner"
+  },
+  "ingredient": "minecraft:black_banner",
+  "item_model_index": 1.0
+}

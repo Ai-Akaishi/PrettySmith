@@ -1,0 +1,9 @@
+{
+  "asset_name": "golden_shovel",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.golden_shovel"
+  },
+  "ingredient": "minecraft:golden_shovel",
+  "item_model_index": 1.0
+}

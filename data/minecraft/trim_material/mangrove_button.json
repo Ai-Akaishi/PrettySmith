@@ -1,0 +1,9 @@
+{
+  "asset_name": "mangrove_button",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.mangrove_button"
+  },
+  "ingredient": "minecraft:mangrove_button",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:iron_boots",
+  "description": {
+    "translate": "trim_pattern.minecraft.iron_boots"
+  },
+  "template_item": "minecraft:iron_boots"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:iron_door",
+  "description": {
+    "translate": "trim_pattern.minecraft.iron_door"
+  },
+  "template_item": "minecraft:iron_door"
+}

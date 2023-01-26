@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:acacia_sign",
+  "description": {
+    "translate": "trim_pattern.minecraft.acacia_sign"
+  },
+  "template_item": "minecraft:acacia_sign"
+}

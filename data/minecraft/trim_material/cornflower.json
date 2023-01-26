@@ -1,0 +1,9 @@
+{
+  "asset_name": "cornflower",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cornflower"
+  },
+  "ingredient": "minecraft:cornflower",
+  "item_model_index": 1.0
+}

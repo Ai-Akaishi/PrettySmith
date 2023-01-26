@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:crimson_button",
+  "description": {
+    "translate": "trim_pattern.minecraft.crimson_button"
+  },
+  "template_item": "minecraft:crimson_button"
+}

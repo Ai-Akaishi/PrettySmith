@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:smooth_quartz_stairs",
+  "description": {
+    "translate": "trim_pattern.minecraft.smooth_quartz_stairs"
+  },
+  "template_item": "minecraft:smooth_quartz_stairs"
+}

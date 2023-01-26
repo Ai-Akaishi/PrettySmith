@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cooked_beef",
+  "description": {
+    "translate": "trim_pattern.minecraft.cooked_beef"
+  },
+  "template_item": "minecraft:cooked_beef"
+}

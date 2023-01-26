@@ -1,0 +1,9 @@
+{
+  "asset_name": "name_tag",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.name_tag"
+  },
+  "ingredient": "minecraft:name_tag",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:totem_of_undying",
+  "description": {
+    "translate": "trim_pattern.minecraft.totem_of_undying"
+  },
+  "template_item": "minecraft:totem_of_undying"
+}

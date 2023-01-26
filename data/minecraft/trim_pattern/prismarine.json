@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:prismarine",
+  "description": {
+    "translate": "trim_pattern.minecraft.prismarine"
+  },
+  "template_item": "minecraft:prismarine"
+}

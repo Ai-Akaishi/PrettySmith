@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:tadpole_bucket",
+  "description": {
+    "translate": "trim_pattern.minecraft.tadpole_bucket"
+  },
+  "template_item": "minecraft:tadpole_bucket"
+}

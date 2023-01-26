@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:light_gray_stained_glass_pane",
+  "description": {
+    "translate": "trim_pattern.minecraft.light_gray_stained_glass_pane"
+  },
+  "template_item": "minecraft:light_gray_stained_glass_pane"
+}

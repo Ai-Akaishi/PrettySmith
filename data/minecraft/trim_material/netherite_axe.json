@@ -1,0 +1,9 @@
+{
+  "asset_name": "netherite_axe",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.netherite_axe"
+  },
+  "ingredient": "minecraft:netherite_axe",
+  "item_model_index": 1.0
+}

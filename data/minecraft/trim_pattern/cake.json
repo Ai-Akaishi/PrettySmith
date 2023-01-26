@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cake",
+  "description": {
+    "translate": "trim_pattern.minecraft.cake"
+  },
+  "template_item": "minecraft:cake"
+}

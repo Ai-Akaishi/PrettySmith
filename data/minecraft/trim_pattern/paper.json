@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:paper",
+  "description": {
+    "translate": "trim_pattern.minecraft.paper"
+  },
+  "template_item": "minecraft:paper"
+}

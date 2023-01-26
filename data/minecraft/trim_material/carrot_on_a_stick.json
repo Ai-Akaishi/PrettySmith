@@ -1,0 +1,9 @@
+{
+  "asset_name": "carrot_on_a_stick",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.carrot_on_a_stick"
+  },
+  "ingredient": "minecraft:carrot_on_a_stick",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:frogspawn",
+  "description": {
+    "translate": "trim_pattern.minecraft.frogspawn"
+  },
+  "template_item": "minecraft:frogspawn"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "beetroot_seeds",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.beetroot_seeds"
+  },
+  "ingredient": "minecraft:beetroot_seeds",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "filled_map",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.filled_map"
+  },
+  "ingredient": "minecraft:filled_map",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:horn_coral_fan",
+  "description": {
+    "translate": "trim_pattern.minecraft.horn_coral_fan"
+  },
+  "template_item": "minecraft:horn_coral_fan"
+}

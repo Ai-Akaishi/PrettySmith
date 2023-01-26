@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:globe_banner_pattern",
+  "description": {
+    "translate": "trim_pattern.minecraft.globe_banner_pattern"
+  },
+  "template_item": "minecraft:globe_banner_pattern"
+}

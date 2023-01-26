@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:oak_log",
+  "description": {
+    "translate": "trim_pattern.minecraft.oak_log"
+  },
+  "template_item": "minecraft:oak_log"
+}

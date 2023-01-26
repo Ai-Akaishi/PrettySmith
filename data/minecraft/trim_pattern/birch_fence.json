@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:birch_fence",
+  "description": {
+    "translate": "trim_pattern.minecraft.birch_fence"
+  },
+  "template_item": "minecraft:birch_fence"
+}

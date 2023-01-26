@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:dark_prismarine_slab",
+  "description": {
+    "translate": "trim_pattern.minecraft.dark_prismarine_slab"
+  },
+  "template_item": "minecraft:dark_prismarine_slab"
+}

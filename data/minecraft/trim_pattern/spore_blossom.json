@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:spore_blossom",
+  "description": {
+    "translate": "trim_pattern.minecraft.spore_blossom"
+  },
+  "template_item": "minecraft:spore_blossom"
+}

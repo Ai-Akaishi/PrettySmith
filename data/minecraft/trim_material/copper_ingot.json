@@ -1,0 +1,9 @@
+{
+  "asset_name": "copper_ingot",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.copper_ingot"
+  },
+  "ingredient": "minecraft:copper_ingot",
+  "item_model_index": 1.0
+}

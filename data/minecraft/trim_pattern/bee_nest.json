@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bee_nest",
+  "description": {
+    "translate": "trim_pattern.minecraft.bee_nest"
+  },
+  "template_item": "minecraft:bee_nest"
+}

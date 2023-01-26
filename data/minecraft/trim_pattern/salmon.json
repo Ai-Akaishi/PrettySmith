@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:salmon",
+  "description": {
+    "translate": "trim_pattern.minecraft.salmon"
+  },
+  "template_item": "minecraft:salmon"
+}

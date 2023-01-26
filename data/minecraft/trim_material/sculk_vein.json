@@ -1,0 +1,9 @@
+{
+  "asset_name": "sculk_vein",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.sculk_vein"
+  },
+  "ingredient": "minecraft:sculk_vein",
+  "item_model_index": 1.0
+}

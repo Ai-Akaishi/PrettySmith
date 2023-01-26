@@ -1,0 +1,9 @@
+{
+  "asset_name": "carrot",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.carrot"
+  },
+  "ingredient": "minecraft:carrot",
+  "item_model_index": 1.0
+}

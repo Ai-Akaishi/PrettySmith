@@ -1,0 +1,9 @@
+{
+  "asset_name": "polished_diorite",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.polished_diorite"
+  },
+  "ingredient": "minecraft:polished_diorite",
+  "item_model_index": 1.0
+}

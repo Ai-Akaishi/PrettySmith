@@ -1,0 +1,9 @@
+{
+  "asset_name": "mangrove_wood",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.mangrove_wood"
+  },
+  "ingredient": "minecraft:mangrove_wood",
+  "item_model_index": 1.0
+}

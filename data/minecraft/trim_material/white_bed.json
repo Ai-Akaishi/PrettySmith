@@ -1,0 +1,9 @@
+{
+  "asset_name": "white_bed",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.white_bed"
+  },
+  "ingredient": "minecraft:white_bed",
+  "item_model_index": 1.0
+}

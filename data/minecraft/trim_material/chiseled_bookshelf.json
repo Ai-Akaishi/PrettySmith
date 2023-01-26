@@ -1,0 +1,9 @@
+{
+  "asset_name": "chiseled_bookshelf",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.chiseled_bookshelf"
+  },
+  "ingredient": "minecraft:chiseled_bookshelf",
+  "item_model_index": 1.0
+}

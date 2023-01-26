@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:lapis_lazuli",
+  "description": {
+    "translate": "trim_pattern.minecraft.lapis_lazuli"
+  },
+  "template_item": "minecraft:lapis_lazuli"
+}

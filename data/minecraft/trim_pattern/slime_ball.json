@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:slime_ball",
+  "description": {
+    "translate": "trim_pattern.minecraft.slime_ball"
+  },
+  "template_item": "minecraft:slime_ball"
+}

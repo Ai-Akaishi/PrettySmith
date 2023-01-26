@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:obsidian",
+  "description": {
+    "translate": "trim_pattern.minecraft.obsidian"
+  },
+  "template_item": "minecraft:obsidian"
+}

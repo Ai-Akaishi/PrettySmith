@@ -1,0 +1,9 @@
+{
+  "asset_name": "jungle_sign",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.jungle_sign"
+  },
+  "ingredient": "minecraft:jungle_sign",
+  "item_model_index": 1.0
+}

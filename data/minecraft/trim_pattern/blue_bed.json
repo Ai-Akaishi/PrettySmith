@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:blue_bed",
+  "description": {
+    "translate": "trim_pattern.minecraft.blue_bed"
+  },
+  "template_item": "minecraft:blue_bed"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:salmon_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.salmon_spawn_egg"
+  },
+  "template_item": "minecraft:salmon_spawn_egg"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "emerald",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.emerald"
+  },
+  "ingredient": "minecraft:emerald",
+  "item_model_index": 1.0
+}

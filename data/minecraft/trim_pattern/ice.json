@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:ice",
+  "description": {
+    "translate": "trim_pattern.minecraft.ice"
+  },
+  "template_item": "minecraft:ice"
+}

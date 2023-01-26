@@ -1,0 +1,9 @@
+{
+  "asset_name": "gold_ingot",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.gold_ingot"
+  },
+  "ingredient": "minecraft:gold_ingot",
+  "item_model_index": 1.0
+}

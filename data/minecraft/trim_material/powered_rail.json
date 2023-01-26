@@ -1,0 +1,9 @@
+{
+  "asset_name": "powered_rail",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.powered_rail"
+  },
+  "ingredient": "minecraft:powered_rail",
+  "item_model_index": 1.0
+}

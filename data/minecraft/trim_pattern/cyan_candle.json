@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cyan_candle",
+  "description": {
+    "translate": "trim_pattern.minecraft.cyan_candle"
+  },
+  "template_item": "minecraft:cyan_candle"
+}

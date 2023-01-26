@@ -1,0 +1,9 @@
+{
+  "asset_name": "glow_item_frame",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.glow_item_frame"
+  },
+  "ingredient": "minecraft:glow_item_frame",
+  "item_model_index": 1.0
+}

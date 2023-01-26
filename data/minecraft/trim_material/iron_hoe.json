@@ -1,0 +1,9 @@
+{
+  "asset_name": "iron_hoe",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.iron_hoe"
+  },
+  "ingredient": "minecraft:iron_hoe",
+  "item_model_index": 1.0
+}

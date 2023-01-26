@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:crafting_table",
+  "description": {
+    "translate": "trim_pattern.minecraft.crafting_table"
+  },
+  "template_item": "minecraft:crafting_table"
+}

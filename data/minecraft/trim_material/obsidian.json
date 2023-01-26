@@ -1,0 +1,9 @@
+{
+  "asset_name": "obsidian",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.obsidian"
+  },
+  "ingredient": "minecraft:obsidian",
+  "item_model_index": 1.0
+}

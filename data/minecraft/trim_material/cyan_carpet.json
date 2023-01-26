@@ -1,0 +1,9 @@
+{
+  "asset_name": "cyan_carpet",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cyan_carpet"
+  },
+  "ingredient": "minecraft:cyan_carpet",
+  "item_model_index": 1.0
+}

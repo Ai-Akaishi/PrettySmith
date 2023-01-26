@@ -1,0 +1,9 @@
+{
+  "asset_name": "bubble_coral_fan",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.bubble_coral_fan"
+  },
+  "ingredient": "minecraft:bubble_coral_fan",
+  "item_model_index": 1.0
+}

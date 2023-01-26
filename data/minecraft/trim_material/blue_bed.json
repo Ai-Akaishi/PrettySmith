@@ -1,0 +1,9 @@
+{
+  "asset_name": "blue_bed",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.blue_bed"
+  },
+  "ingredient": "minecraft:blue_bed",
+  "item_model_index": 1.0
+}

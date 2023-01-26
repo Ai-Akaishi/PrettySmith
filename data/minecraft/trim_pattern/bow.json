@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bow",
+  "description": {
+    "translate": "trim_pattern.minecraft.bow"
+  },
+  "template_item": "minecraft:bow"
+}

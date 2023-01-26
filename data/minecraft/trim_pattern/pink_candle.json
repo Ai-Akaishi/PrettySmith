@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:pink_candle",
+  "description": {
+    "translate": "trim_pattern.minecraft.pink_candle"
+  },
+  "template_item": "minecraft:pink_candle"
+}

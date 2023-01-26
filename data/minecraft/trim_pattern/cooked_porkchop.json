@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cooked_porkchop",
+  "description": {
+    "translate": "trim_pattern.minecraft.cooked_porkchop"
+  },
+  "template_item": "minecraft:cooked_porkchop"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "glow_lichen",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.glow_lichen"
+  },
+  "ingredient": "minecraft:glow_lichen",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "lime_bed",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.lime_bed"
+  },
+  "ingredient": "minecraft:lime_bed",
+  "item_model_index": 1.0
+}

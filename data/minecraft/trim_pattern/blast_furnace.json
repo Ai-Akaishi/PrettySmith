@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:blast_furnace",
+  "description": {
+    "translate": "trim_pattern.minecraft.blast_furnace"
+  },
+  "template_item": "minecraft:blast_furnace"
+}

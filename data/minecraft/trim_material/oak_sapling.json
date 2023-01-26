@@ -1,0 +1,9 @@
+{
+  "asset_name": "oak_sapling",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.oak_sapling"
+  },
+  "ingredient": "minecraft:oak_sapling",
+  "item_model_index": 1.0
+}

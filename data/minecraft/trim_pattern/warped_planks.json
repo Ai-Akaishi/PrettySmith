@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:warped_planks",
+  "description": {
+    "translate": "trim_pattern.minecraft.warped_planks"
+  },
+  "template_item": "minecraft:warped_planks"
+}

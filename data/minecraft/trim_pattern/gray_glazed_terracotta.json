@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:gray_glazed_terracotta",
+  "description": {
+    "translate": "trim_pattern.minecraft.gray_glazed_terracotta"
+  },
+  "template_item": "minecraft:gray_glazed_terracotta"
+}

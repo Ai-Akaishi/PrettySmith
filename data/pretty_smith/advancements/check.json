@@ -1,0 +1,17 @@
+{
+	"criteria": {
+		"check": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"nbt": "{Trim:{}}"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "pretty_smith:check/"
+	}
+}

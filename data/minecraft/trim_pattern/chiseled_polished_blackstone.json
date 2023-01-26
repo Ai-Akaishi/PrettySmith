@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:chiseled_polished_blackstone",
+  "description": {
+    "translate": "trim_pattern.minecraft.chiseled_polished_blackstone"
+  },
+  "template_item": "minecraft:chiseled_polished_blackstone"
+}

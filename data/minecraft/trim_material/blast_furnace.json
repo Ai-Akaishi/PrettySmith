@@ -1,0 +1,9 @@
+{
+  "asset_name": "blast_furnace",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.blast_furnace"
+  },
+  "ingredient": "minecraft:blast_furnace",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:fern",
+  "description": {
+    "translate": "trim_pattern.minecraft.fern"
+  },
+  "template_item": "minecraft:fern"
+}

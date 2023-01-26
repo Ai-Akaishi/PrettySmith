@@ -1,0 +1,9 @@
+{
+  "asset_name": "dead_brain_coral",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.dead_brain_coral"
+  },
+  "ingredient": "minecraft:dead_brain_coral",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "bedrock",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.bedrock"
+  },
+  "ingredient": "minecraft:bedrock",
+  "item_model_index": 1.0
+}

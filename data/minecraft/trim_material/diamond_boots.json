@@ -1,0 +1,9 @@
+{
+  "asset_name": "diamond_boots",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.diamond_boots"
+  },
+  "ingredient": "minecraft:diamond_boots",
+  "item_model_index": 1.0
+}

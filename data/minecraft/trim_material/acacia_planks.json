@@ -1,0 +1,9 @@
+{
+  "asset_name": "acacia_planks",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.acacia_planks"
+  },
+  "ingredient": "minecraft:acacia_planks",
+  "item_model_index": 1.0
+}

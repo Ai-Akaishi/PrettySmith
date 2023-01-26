@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:birch_stairs",
+  "description": {
+    "translate": "trim_pattern.minecraft.birch_stairs"
+  },
+  "template_item": "minecraft:birch_stairs"
+}

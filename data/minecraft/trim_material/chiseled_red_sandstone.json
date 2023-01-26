@@ -1,0 +1,9 @@
+{
+  "asset_name": "chiseled_red_sandstone",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.chiseled_red_sandstone"
+  },
+  "ingredient": "minecraft:chiseled_red_sandstone",
+  "item_model_index": 1.0
+}

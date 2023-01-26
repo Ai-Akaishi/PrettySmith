@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:tropical_fish_bucket",
+  "description": {
+    "translate": "trim_pattern.minecraft.tropical_fish_bucket"
+  },
+  "template_item": "minecraft:tropical_fish_bucket"
+}

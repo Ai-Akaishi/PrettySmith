@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:powered_rail",
+  "description": {
+    "translate": "trim_pattern.minecraft.powered_rail"
+  },
+  "template_item": "minecraft:powered_rail"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:torch",
+  "description": {
+    "translate": "trim_pattern.minecraft.torch"
+  },
+  "template_item": "minecraft:torch"
+}

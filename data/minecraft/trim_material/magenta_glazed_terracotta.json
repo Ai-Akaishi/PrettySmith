@@ -1,0 +1,9 @@
+{
+  "asset_name": "magenta_glazed_terracotta",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.magenta_glazed_terracotta"
+  },
+  "ingredient": "minecraft:magenta_glazed_terracotta",
+  "item_model_index": 1.0
+}

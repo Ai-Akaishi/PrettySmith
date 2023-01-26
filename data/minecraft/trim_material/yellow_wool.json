@@ -1,0 +1,9 @@
+{
+  "asset_name": "yellow_wool",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.yellow_wool"
+  },
+  "ingredient": "minecraft:yellow_wool",
+  "item_model_index": 1.0
+}

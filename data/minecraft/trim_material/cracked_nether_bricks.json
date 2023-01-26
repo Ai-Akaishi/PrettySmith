@@ -1,0 +1,9 @@
+{
+  "asset_name": "cracked_nether_bricks",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cracked_nether_bricks"
+  },
+  "ingredient": "minecraft:cracked_nether_bricks",
+  "item_model_index": 1.0
+}

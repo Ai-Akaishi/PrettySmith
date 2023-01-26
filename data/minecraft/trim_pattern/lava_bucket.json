@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:lava_bucket",
+  "description": {
+    "translate": "trim_pattern.minecraft.lava_bucket"
+  },
+  "template_item": "minecraft:lava_bucket"
+}

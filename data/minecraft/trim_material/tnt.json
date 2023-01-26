@@ -1,0 +1,9 @@
+{
+  "asset_name": "tnt",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.tnt"
+  },
+  "ingredient": "minecraft:tnt",
+  "item_model_index": 1.0
+}

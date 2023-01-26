@@ -1,0 +1,9 @@
+{
+  "asset_name": "observer",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.observer"
+  },
+  "ingredient": "minecraft:observer",
+  "item_model_index": 1.0
+}

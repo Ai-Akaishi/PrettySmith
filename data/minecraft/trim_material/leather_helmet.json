@@ -1,0 +1,9 @@
+{
+  "asset_name": "leather_helmet",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.leather_helmet"
+  },
+  "ingredient": "minecraft:leather_helmet",
+  "item_model_index": 1.0
+}

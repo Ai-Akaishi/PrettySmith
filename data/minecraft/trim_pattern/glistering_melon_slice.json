@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:glistering_melon_slice",
+  "description": {
+    "translate": "trim_pattern.minecraft.glistering_melon_slice"
+  },
+  "template_item": "minecraft:glistering_melon_slice"
+}

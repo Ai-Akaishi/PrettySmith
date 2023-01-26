@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:beacon",
+  "description": {
+    "translate": "trim_pattern.minecraft.beacon"
+  },
+  "template_item": "minecraft:beacon"
+}

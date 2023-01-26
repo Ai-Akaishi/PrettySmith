@@ -1,0 +1,9 @@
+{
+  "asset_name": "purple_concrete_powder",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.purple_concrete_powder"
+  },
+  "ingredient": "minecraft:purple_concrete_powder",
+  "item_model_index": 1.0
+}

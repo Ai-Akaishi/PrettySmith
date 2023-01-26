@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bucket",
+  "description": {
+    "translate": "trim_pattern.minecraft.bucket"
+  },
+  "template_item": "minecraft:bucket"
+}

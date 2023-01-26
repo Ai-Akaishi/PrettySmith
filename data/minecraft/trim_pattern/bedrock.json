@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bedrock",
+  "description": {
+    "translate": "trim_pattern.minecraft.bedrock"
+  },
+  "template_item": "minecraft:bedrock"
+}

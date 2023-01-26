@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:brown_concrete",
+  "description": {
+    "translate": "trim_pattern.minecraft.brown_concrete"
+  },
+  "template_item": "minecraft:brown_concrete"
+}

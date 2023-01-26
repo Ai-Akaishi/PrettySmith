@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:dragon_head",
+  "description": {
+    "translate": "trim_pattern.minecraft.dragon_head"
+  },
+  "template_item": "minecraft:dragon_head"
+}

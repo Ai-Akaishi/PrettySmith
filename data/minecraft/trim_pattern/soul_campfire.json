@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:soul_campfire",
+  "description": {
+    "translate": "trim_pattern.minecraft.soul_campfire"
+  },
+  "template_item": "minecraft:soul_campfire"
+}

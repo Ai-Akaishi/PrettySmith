@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:brown_terracotta",
+  "description": {
+    "translate": "trim_pattern.minecraft.brown_terracotta"
+  },
+  "template_item": "minecraft:brown_terracotta"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:panda_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.panda_spawn_egg"
+  },
+  "template_item": "minecraft:panda_spawn_egg"
+}

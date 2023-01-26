@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:gray_banner",
+  "description": {
+    "translate": "trim_pattern.minecraft.gray_banner"
+  },
+  "template_item": "minecraft:gray_banner"
+}

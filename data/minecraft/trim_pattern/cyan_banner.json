@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cyan_banner",
+  "description": {
+    "translate": "trim_pattern.minecraft.cyan_banner"
+  },
+  "template_item": "minecraft:cyan_banner"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "red_tulip",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.red_tulip"
+  },
+  "ingredient": "minecraft:red_tulip",
+  "item_model_index": 1.0
+}

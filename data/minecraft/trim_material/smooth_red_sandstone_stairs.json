@@ -1,0 +1,9 @@
+{
+  "asset_name": "smooth_red_sandstone_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.smooth_red_sandstone_stairs"
+  },
+  "ingredient": "minecraft:smooth_red_sandstone_stairs",
+  "item_model_index": 1.0
+}

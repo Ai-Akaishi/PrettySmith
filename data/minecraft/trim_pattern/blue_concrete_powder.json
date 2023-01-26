@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:blue_concrete_powder",
+  "description": {
+    "translate": "trim_pattern.minecraft.blue_concrete_powder"
+  },
+  "template_item": "minecraft:blue_concrete_powder"
+}

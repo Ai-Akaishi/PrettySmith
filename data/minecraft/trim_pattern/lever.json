@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:lever",
+  "description": {
+    "translate": "trim_pattern.minecraft.lever"
+  },
+  "template_item": "minecraft:lever"
+}

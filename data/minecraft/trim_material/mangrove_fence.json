@@ -1,0 +1,9 @@
+{
+  "asset_name": "mangrove_fence",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.mangrove_fence"
+  },
+  "ingredient": "minecraft:mangrove_fence",
+  "item_model_index": 1.0
+}

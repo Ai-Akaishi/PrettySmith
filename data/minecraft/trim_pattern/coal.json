@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:coal",
+  "description": {
+    "translate": "trim_pattern.minecraft.coal"
+  },
+  "template_item": "minecraft:coal"
+}

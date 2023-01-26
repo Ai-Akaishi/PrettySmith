@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:small_dripleaf",
+  "description": {
+    "translate": "trim_pattern.minecraft.small_dripleaf"
+  },
+  "template_item": "minecraft:small_dripleaf"
+}

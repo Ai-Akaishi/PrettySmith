@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cut_copper_stairs",
+  "description": {
+    "translate": "trim_pattern.minecraft.cut_copper_stairs"
+  },
+  "template_item": "minecraft:cut_copper_stairs"
+}

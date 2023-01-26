@@ -1,0 +1,9 @@
+{
+  "asset_name": "verdant_froglight",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.verdant_froglight"
+  },
+  "ingredient": "minecraft:verdant_froglight",
+  "item_model_index": 1.0
+}

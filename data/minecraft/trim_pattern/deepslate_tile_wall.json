@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:deepslate_tile_wall",
+  "description": {
+    "translate": "trim_pattern.minecraft.deepslate_tile_wall"
+  },
+  "template_item": "minecraft:deepslate_tile_wall"
+}

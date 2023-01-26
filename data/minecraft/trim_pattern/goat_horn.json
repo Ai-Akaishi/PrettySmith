@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:goat_horn",
+  "description": {
+    "translate": "trim_pattern.minecraft.goat_horn"
+  },
+  "template_item": "minecraft:goat_horn"
+}

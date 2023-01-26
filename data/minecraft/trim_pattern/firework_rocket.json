@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:firework_rocket",
+  "description": {
+    "translate": "trim_pattern.minecraft.firework_rocket"
+  },
+  "template_item": "minecraft:firework_rocket"
+}

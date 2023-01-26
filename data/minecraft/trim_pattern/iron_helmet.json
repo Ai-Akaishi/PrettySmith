@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:iron_helmet",
+  "description": {
+    "translate": "trim_pattern.minecraft.iron_helmet"
+  },
+  "template_item": "minecraft:iron_helmet"
+}

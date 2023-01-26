@@ -1,0 +1,9 @@
+{
+  "asset_name": "large_fern",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.large_fern"
+  },
+  "ingredient": "minecraft:large_fern",
+  "item_model_index": 1.0
+}

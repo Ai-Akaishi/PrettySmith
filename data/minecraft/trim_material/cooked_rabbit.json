@@ -1,0 +1,9 @@
+{
+  "asset_name": "cooked_rabbit",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cooked_rabbit"
+  },
+  "ingredient": "minecraft:cooked_rabbit",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:chorus_fruit",
+  "description": {
+    "translate": "trim_pattern.minecraft.chorus_fruit"
+  },
+  "template_item": "minecraft:chorus_fruit"
+}

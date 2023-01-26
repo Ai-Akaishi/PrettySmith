@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:daylight_detector",
+  "description": {
+    "translate": "trim_pattern.minecraft.daylight_detector"
+  },
+  "template_item": "minecraft:daylight_detector"
+}

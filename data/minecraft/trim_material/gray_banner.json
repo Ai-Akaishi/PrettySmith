@@ -1,0 +1,9 @@
+{
+  "asset_name": "gray_banner",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.gray_banner"
+  },
+  "ingredient": "minecraft:gray_banner",
+  "item_model_index": 1.0
+}

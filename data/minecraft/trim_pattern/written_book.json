@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:written_book",
+  "description": {
+    "translate": "trim_pattern.minecraft.written_book"
+  },
+  "template_item": "minecraft:written_book"
+}

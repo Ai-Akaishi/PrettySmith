@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:moss_block",
+  "description": {
+    "translate": "trim_pattern.minecraft.moss_block"
+  },
+  "template_item": "minecraft:moss_block"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "peony",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.peony"
+  },
+  "ingredient": "minecraft:peony",
+  "item_model_index": 1.0
+}

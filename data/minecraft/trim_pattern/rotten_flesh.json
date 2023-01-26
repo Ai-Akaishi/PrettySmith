@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:rotten_flesh",
+  "description": {
+    "translate": "trim_pattern.minecraft.rotten_flesh"
+  },
+  "template_item": "minecraft:rotten_flesh"
+}

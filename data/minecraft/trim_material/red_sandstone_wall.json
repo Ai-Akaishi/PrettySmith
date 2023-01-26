@@ -1,0 +1,9 @@
+{
+  "asset_name": "red_sandstone_wall",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.red_sandstone_wall"
+  },
+  "ingredient": "minecraft:red_sandstone_wall",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "raw_gold",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.raw_gold"
+  },
+  "ingredient": "minecraft:raw_gold",
+  "item_model_index": 1.0
+}

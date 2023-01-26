@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:conduit",
+  "description": {
+    "translate": "trim_pattern.minecraft.conduit"
+  },
+  "template_item": "minecraft:conduit"
+}

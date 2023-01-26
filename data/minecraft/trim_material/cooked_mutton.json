@@ -1,0 +1,9 @@
+{
+  "asset_name": "cooked_mutton",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cooked_mutton"
+  },
+  "ingredient": "minecraft:cooked_mutton",
+  "item_model_index": 1.0
+}

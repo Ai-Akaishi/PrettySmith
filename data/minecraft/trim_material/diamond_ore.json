@@ -1,0 +1,9 @@
+{
+  "asset_name": "diamond_ore",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.diamond_ore"
+  },
+  "ingredient": "minecraft:diamond_ore",
+  "item_model_index": 1.0
+}

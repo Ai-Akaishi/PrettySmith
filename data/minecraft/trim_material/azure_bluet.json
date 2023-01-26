@@ -1,0 +1,9 @@
+{
+  "asset_name": "azure_bluet",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.azure_bluet"
+  },
+  "ingredient": "minecraft:azure_bluet",
+  "item_model_index": 1.0
+}

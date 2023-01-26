@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:chainmail_helmet",
+  "description": {
+    "translate": "trim_pattern.minecraft.chainmail_helmet"
+  },
+  "template_item": "minecraft:chainmail_helmet"
+}

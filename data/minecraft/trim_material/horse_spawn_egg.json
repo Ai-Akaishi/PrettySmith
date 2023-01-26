@@ -1,0 +1,9 @@
+{
+  "asset_name": "horse_spawn_egg",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.horse_spawn_egg"
+  },
+  "ingredient": "minecraft:horse_spawn_egg",
+  "item_model_index": 1.0
+}

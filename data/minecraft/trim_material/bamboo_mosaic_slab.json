@@ -1,0 +1,9 @@
+{
+  "asset_name": "bamboo_mosaic_slab",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.bamboo_mosaic_slab"
+  },
+  "ingredient": "minecraft:bamboo_mosaic_slab",
+  "item_model_index": 1.0
+}

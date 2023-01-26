@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:tube_coral",
+  "description": {
+    "translate": "trim_pattern.minecraft.tube_coral"
+  },
+  "template_item": "minecraft:tube_coral"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "mycelium",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.mycelium"
+  },
+  "ingredient": "minecraft:mycelium",
+  "item_model_index": 1.0
+}

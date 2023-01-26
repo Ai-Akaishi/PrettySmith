@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:sweet_berries",
+  "description": {
+    "translate": "trim_pattern.minecraft.sweet_berries"
+  },
+  "template_item": "minecraft:sweet_berries"
+}

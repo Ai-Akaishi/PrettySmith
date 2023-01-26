@@ -1,0 +1,9 @@
+{
+  "asset_name": "stone_hoe",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.stone_hoe"
+  },
+  "ingredient": "minecraft:stone_hoe",
+  "item_model_index": 1.0
+}

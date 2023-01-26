@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:dead_bush",
+  "description": {
+    "translate": "trim_pattern.minecraft.dead_bush"
+  },
+  "template_item": "minecraft:dead_bush"
+}

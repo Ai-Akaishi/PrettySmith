@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:poppy",
+  "description": {
+    "translate": "trim_pattern.minecraft.poppy"
+  },
+  "template_item": "minecraft:poppy"
+}

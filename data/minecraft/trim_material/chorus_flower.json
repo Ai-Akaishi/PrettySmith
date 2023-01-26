@@ -1,0 +1,9 @@
+{
+  "asset_name": "chorus_flower",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.chorus_flower"
+  },
+  "ingredient": "minecraft:chorus_flower",
+  "item_model_index": 1.0
+}

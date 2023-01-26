@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:andesite",
+  "description": {
+    "translate": "trim_pattern.minecraft.andesite"
+  },
+  "template_item": "minecraft:andesite"
+}

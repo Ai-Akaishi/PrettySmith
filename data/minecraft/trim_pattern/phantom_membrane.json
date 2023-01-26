@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:phantom_membrane",
+  "description": {
+    "translate": "trim_pattern.minecraft.phantom_membrane"
+  },
+  "template_item": "minecraft:phantom_membrane"
+}

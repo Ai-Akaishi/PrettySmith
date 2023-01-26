@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:glow_ink_sac",
+  "description": {
+    "translate": "trim_pattern.minecraft.glow_ink_sac"
+  },
+  "template_item": "minecraft:glow_ink_sac"
+}

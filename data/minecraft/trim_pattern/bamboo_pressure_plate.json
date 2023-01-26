@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bamboo_pressure_plate",
+  "description": {
+    "translate": "trim_pattern.minecraft.bamboo_pressure_plate"
+  },
+  "template_item": "minecraft:bamboo_pressure_plate"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "end_portal_frame",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.end_portal_frame"
+  },
+  "ingredient": "minecraft:end_portal_frame",
+  "item_model_index": 1.0
+}

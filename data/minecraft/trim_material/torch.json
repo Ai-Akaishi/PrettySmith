@@ -1,0 +1,9 @@
+{
+  "asset_name": "torch",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.torch"
+  },
+  "ingredient": "minecraft:torch",
+  "item_model_index": 1.0
+}

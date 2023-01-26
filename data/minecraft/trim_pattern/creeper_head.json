@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:creeper_head",
+  "description": {
+    "translate": "trim_pattern.minecraft.creeper_head"
+  },
+  "template_item": "minecraft:creeper_head"
+}

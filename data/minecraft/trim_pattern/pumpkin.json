@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:pumpkin",
+  "description": {
+    "translate": "trim_pattern.minecraft.pumpkin"
+  },
+  "template_item": "minecraft:pumpkin"
+}

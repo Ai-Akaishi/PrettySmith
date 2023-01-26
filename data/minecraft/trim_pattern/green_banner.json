@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:green_banner",
+  "description": {
+    "translate": "trim_pattern.minecraft.green_banner"
+  },
+  "template_item": "minecraft:green_banner"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "baked_potato",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.baked_potato"
+  },
+  "ingredient": "minecraft:baked_potato",
+  "item_model_index": 1.0
+}

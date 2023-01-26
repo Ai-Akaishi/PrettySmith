@@ -1,0 +1,9 @@
+{
+  "asset_name": "netherrack",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.netherrack"
+  },
+  "ingredient": "minecraft:netherrack",
+  "item_model_index": 1.0
+}

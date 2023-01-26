@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cave_spider_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.cave_spider_spawn_egg"
+  },
+  "template_item": "minecraft:cave_spider_spawn_egg"
+}

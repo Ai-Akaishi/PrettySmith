@@ -1,0 +1,9 @@
+{
+  "asset_name": "cod_bucket",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cod_bucket"
+  },
+  "ingredient": "minecraft:cod_bucket",
+  "item_model_index": 1.0
+}

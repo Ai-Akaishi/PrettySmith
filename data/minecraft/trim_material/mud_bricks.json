@@ -1,0 +1,9 @@
+{
+  "asset_name": "mud_bricks",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.mud_bricks"
+  },
+  "ingredient": "minecraft:mud_bricks",
+  "item_model_index": 1.0
+}

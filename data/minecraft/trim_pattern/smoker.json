@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:smoker",
+  "description": {
+    "translate": "trim_pattern.minecraft.smoker"
+  },
+  "template_item": "minecraft:smoker"
+}

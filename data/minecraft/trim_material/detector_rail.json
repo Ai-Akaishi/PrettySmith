@@ -1,0 +1,9 @@
+{
+  "asset_name": "detector_rail",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.detector_rail"
+  },
+  "ingredient": "minecraft:detector_rail",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:moss_carpet",
+  "description": {
+    "translate": "trim_pattern.minecraft.moss_carpet"
+  },
+  "template_item": "minecraft:moss_carpet"
+}

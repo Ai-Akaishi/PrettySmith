@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:redstone_lamp",
+  "description": {
+    "translate": "trim_pattern.minecraft.redstone_lamp"
+  },
+  "template_item": "minecraft:redstone_lamp"
+}

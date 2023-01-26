@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:spruce_fence",
+  "description": {
+    "translate": "trim_pattern.minecraft.spruce_fence"
+  },
+  "template_item": "minecraft:spruce_fence"
+}

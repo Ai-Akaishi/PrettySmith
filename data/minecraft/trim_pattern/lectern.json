@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:lectern",
+  "description": {
+    "translate": "trim_pattern.minecraft.lectern"
+  },
+  "template_item": "minecraft:lectern"
+}

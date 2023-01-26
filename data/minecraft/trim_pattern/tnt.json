@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:tnt",
+  "description": {
+    "translate": "trim_pattern.minecraft.tnt"
+  },
+  "template_item": "minecraft:tnt"
+}

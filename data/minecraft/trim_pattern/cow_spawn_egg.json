@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cow_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.cow_spawn_egg"
+  },
+  "template_item": "minecraft:cow_spawn_egg"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "purpur_block",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.purpur_block"
+  },
+  "ingredient": "minecraft:purpur_block",
+  "item_model_index": 1.0
+}

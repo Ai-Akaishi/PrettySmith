@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:purple_dye",
+  "description": {
+    "translate": "trim_pattern.minecraft.purple_dye"
+  },
+  "template_item": "minecraft:purple_dye"
+}

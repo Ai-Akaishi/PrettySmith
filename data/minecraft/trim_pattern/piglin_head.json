@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:piglin_head",
+  "description": {
+    "translate": "trim_pattern.minecraft.piglin_head"
+  },
+  "template_item": "minecraft:piglin_head"
+}

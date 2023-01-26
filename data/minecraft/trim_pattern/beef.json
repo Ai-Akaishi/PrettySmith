@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:beef",
+  "description": {
+    "translate": "trim_pattern.minecraft.beef"
+  },
+  "template_item": "minecraft:beef"
+}

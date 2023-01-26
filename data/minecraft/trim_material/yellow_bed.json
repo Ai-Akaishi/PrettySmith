@@ -1,0 +1,9 @@
+{
+  "asset_name": "yellow_bed",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.yellow_bed"
+  },
+  "ingredient": "minecraft:yellow_bed",
+  "item_model_index": 1.0
+}

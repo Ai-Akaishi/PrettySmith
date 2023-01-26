@@ -1,0 +1,9 @@
+{
+  "asset_name": "raw_iron_block",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.raw_iron_block"
+  },
+  "ingredient": "minecraft:raw_iron_block",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "spruce_door",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.spruce_door"
+  },
+  "ingredient": "minecraft:spruce_door",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "jungle_log",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.jungle_log"
+  },
+  "ingredient": "minecraft:jungle_log",
+  "item_model_index": 1.0
+}

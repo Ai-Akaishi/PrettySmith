@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:chiseled_quartz_block",
+  "description": {
+    "translate": "trim_pattern.minecraft.chiseled_quartz_block"
+  },
+  "template_item": "minecraft:chiseled_quartz_block"
+}

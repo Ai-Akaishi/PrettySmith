@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:ender_eye",
+  "description": {
+    "translate": "trim_pattern.minecraft.ender_eye"
+  },
+  "template_item": "minecraft:ender_eye"
+}

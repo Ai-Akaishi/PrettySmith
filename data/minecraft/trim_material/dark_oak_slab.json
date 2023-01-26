@@ -1,0 +1,9 @@
+{
+  "asset_name": "dark_oak_slab",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.dark_oak_slab"
+  },
+  "ingredient": "minecraft:dark_oak_slab",
+  "item_model_index": 1.0
+}

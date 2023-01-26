@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:crimson_hyphae",
+  "description": {
+    "translate": "trim_pattern.minecraft.crimson_hyphae"
+  },
+  "template_item": "minecraft:crimson_hyphae"
+}

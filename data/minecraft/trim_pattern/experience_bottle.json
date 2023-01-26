@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:experience_bottle",
+  "description": {
+    "translate": "trim_pattern.minecraft.experience_bottle"
+  },
+  "template_item": "minecraft:experience_bottle"
+}

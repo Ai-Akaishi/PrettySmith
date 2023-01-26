@@ -1,0 +1,9 @@
+{
+  "asset_name": "piglin_head",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.piglin_head"
+  },
+  "ingredient": "minecraft:piglin_head",
+  "item_model_index": 1.0
+}

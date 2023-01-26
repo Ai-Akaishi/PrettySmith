@@ -1,0 +1,9 @@
+{
+  "asset_name": "kelp",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.kelp"
+  },
+  "ingredient": "minecraft:kelp",
+  "item_model_index": 1.0
+}

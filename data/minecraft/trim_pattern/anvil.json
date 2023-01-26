@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:anvil",
+  "description": {
+    "translate": "trim_pattern.minecraft.anvil"
+  },
+  "template_item": "minecraft:anvil"
+}

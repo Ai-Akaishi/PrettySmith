@@ -1,0 +1,9 @@
+{
+  "asset_name": "purpur_slab",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.purpur_slab"
+  },
+  "ingredient": "minecraft:purpur_slab",
+  "item_model_index": 1.0
+}

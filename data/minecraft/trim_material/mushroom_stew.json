@@ -1,0 +1,9 @@
+{
+  "asset_name": "mushroom_stew",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.mushroom_stew"
+  },
+  "ingredient": "minecraft:mushroom_stew",
+  "item_model_index": 1.0
+}

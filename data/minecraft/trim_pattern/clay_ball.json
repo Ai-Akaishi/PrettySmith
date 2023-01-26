@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:clay_ball",
+  "description": {
+    "translate": "trim_pattern.minecraft.clay_ball"
+  },
+  "template_item": "minecraft:clay_ball"
+}

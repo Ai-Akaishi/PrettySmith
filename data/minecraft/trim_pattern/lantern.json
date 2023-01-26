@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:lantern",
+  "description": {
+    "translate": "trim_pattern.minecraft.lantern"
+  },
+  "template_item": "minecraft:lantern"
+}

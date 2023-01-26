@@ -1,0 +1,9 @@
+{
+  "asset_name": "tube_coral_fan",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.tube_coral_fan"
+  },
+  "ingredient": "minecraft:tube_coral_fan",
+  "item_model_index": 1.0
+}

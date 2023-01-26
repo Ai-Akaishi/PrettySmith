@@ -1,0 +1,9 @@
+{
+  "asset_name": "birch_sign",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.birch_sign"
+  },
+  "ingredient": "minecraft:birch_sign",
+  "item_model_index": 1.0
+}

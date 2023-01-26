@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:golden_helmet",
+  "description": {
+    "translate": "trim_pattern.minecraft.golden_helmet"
+  },
+  "template_item": "minecraft:golden_helmet"
+}

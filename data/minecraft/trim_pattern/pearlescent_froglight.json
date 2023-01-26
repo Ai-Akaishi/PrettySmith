@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:pearlescent_froglight",
+  "description": {
+    "translate": "trim_pattern.minecraft.pearlescent_froglight"
+  },
+  "template_item": "minecraft:pearlescent_froglight"
+}

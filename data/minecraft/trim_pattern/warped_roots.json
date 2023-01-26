@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:warped_roots",
+  "description": {
+    "translate": "trim_pattern.minecraft.warped_roots"
+  },
+  "template_item": "minecraft:warped_roots"
+}

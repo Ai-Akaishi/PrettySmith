@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:crossbow",
+  "description": {
+    "translate": "trim_pattern.minecraft.crossbow"
+  },
+  "template_item": "minecraft:crossbow"
+}

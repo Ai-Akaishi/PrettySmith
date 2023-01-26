@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:wooden_pickaxe",
+  "description": {
+    "translate": "trim_pattern.minecraft.wooden_pickaxe"
+  },
+  "template_item": "minecraft:wooden_pickaxe"
+}

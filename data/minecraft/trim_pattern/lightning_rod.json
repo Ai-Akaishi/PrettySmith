@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:lightning_rod",
+  "description": {
+    "translate": "trim_pattern.minecraft.lightning_rod"
+  },
+  "template_item": "minecraft:lightning_rod"
+}

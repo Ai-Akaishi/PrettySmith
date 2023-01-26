@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:yellow_shulker_box",
+  "description": {
+    "translate": "trim_pattern.minecraft.yellow_shulker_box"
+  },
+  "template_item": "minecraft:yellow_shulker_box"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "loom",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.loom"
+  },
+  "ingredient": "minecraft:loom",
+  "item_model_index": 1.0
+}

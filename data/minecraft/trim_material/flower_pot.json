@@ -1,0 +1,9 @@
+{
+  "asset_name": "flower_pot",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.flower_pot"
+  },
+  "ingredient": "minecraft:flower_pot",
+  "item_model_index": 1.0
+}

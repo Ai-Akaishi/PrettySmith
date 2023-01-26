@@ -1,0 +1,9 @@
+{
+  "asset_name": "knowledge_book",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.knowledge_book"
+  },
+  "ingredient": "minecraft:knowledge_book",
+  "item_model_index": 1.0
+}

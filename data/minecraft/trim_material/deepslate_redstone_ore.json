@@ -1,0 +1,9 @@
+{
+  "asset_name": "deepslate_redstone_ore",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.deepslate_redstone_ore"
+  },
+  "ingredient": "minecraft:deepslate_redstone_ore",
+  "item_model_index": 1.0
+}

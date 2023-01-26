@@ -1,0 +1,9 @@
+{
+  "asset_name": "spruce_boat",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.spruce_boat"
+  },
+  "ingredient": "minecraft:spruce_boat",
+  "item_model_index": 1.0
+}

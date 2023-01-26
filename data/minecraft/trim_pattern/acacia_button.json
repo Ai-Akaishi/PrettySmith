@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:acacia_button",
+  "description": {
+    "translate": "trim_pattern.minecraft.acacia_button"
+  },
+  "template_item": "minecraft:acacia_button"
+}

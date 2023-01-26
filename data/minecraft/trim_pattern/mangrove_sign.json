@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:mangrove_sign",
+  "description": {
+    "translate": "trim_pattern.minecraft.mangrove_sign"
+  },
+  "template_item": "minecraft:mangrove_sign"
+}

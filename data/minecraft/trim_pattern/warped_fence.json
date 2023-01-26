@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:warped_fence",
+  "description": {
+    "translate": "trim_pattern.minecraft.warped_fence"
+  },
+  "template_item": "minecraft:warped_fence"
+}

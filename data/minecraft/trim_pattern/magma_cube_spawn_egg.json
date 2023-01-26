@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:magma_cube_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.magma_cube_spawn_egg"
+  },
+  "template_item": "minecraft:magma_cube_spawn_egg"
+}

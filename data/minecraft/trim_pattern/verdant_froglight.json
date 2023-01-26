@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:verdant_froglight",
+  "description": {
+    "translate": "trim_pattern.minecraft.verdant_froglight"
+  },
+  "template_item": "minecraft:verdant_froglight"
+}

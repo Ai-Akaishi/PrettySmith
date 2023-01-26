@@ -1,0 +1,9 @@
+{
+  "asset_name": "white_carpet",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.white_carpet"
+  },
+  "ingredient": "minecraft:white_carpet",
+  "item_model_index": 1.0
+}

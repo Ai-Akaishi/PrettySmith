@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:white_candle",
+  "description": {
+    "translate": "trim_pattern.minecraft.white_candle"
+  },
+  "template_item": "minecraft:white_candle"
+}

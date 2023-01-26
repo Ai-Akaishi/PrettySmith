@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:charcoal",
+  "description": {
+    "translate": "trim_pattern.minecraft.charcoal"
+  },
+  "template_item": "minecraft:charcoal"
+}

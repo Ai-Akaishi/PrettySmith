@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:melon_slice",
+  "description": {
+    "translate": "trim_pattern.minecraft.melon_slice"
+  },
+  "template_item": "minecraft:melon_slice"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:flower_pot",
+  "description": {
+    "translate": "trim_pattern.minecraft.flower_pot"
+  },
+  "template_item": "minecraft:flower_pot"
+}

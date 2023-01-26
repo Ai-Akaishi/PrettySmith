@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:ladder",
+  "description": {
+    "translate": "trim_pattern.minecraft.ladder"
+  },
+  "template_item": "minecraft:ladder"
+}

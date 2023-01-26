@@ -1,0 +1,9 @@
+{
+  "asset_name": "birch_button",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.birch_button"
+  },
+  "ingredient": "minecraft:birch_button",
+  "item_model_index": 1.0
+}

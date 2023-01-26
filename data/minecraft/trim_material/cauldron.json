@@ -1,0 +1,9 @@
+{
+  "asset_name": "cauldron",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cauldron"
+  },
+  "ingredient": "minecraft:cauldron",
+  "item_model_index": 1.0
+}

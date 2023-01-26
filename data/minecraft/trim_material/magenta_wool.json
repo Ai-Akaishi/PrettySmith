@@ -1,0 +1,9 @@
+{
+  "asset_name": "magenta_wool",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.magenta_wool"
+  },
+  "ingredient": "minecraft:magenta_wool",
+  "item_model_index": 1.0
+}

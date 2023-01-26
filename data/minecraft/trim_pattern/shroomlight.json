@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:shroomlight",
+  "description": {
+    "translate": "trim_pattern.minecraft.shroomlight"
+  },
+  "template_item": "minecraft:shroomlight"
+}

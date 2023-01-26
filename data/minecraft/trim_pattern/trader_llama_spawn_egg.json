@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:trader_llama_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.trader_llama_spawn_egg"
+  },
+  "template_item": "minecraft:trader_llama_spawn_egg"
+}

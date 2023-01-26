@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:barrel",
+  "description": {
+    "translate": "trim_pattern.minecraft.barrel"
+  },
+  "template_item": "minecraft:barrel"
+}

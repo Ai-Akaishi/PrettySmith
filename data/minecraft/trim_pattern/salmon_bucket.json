@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:salmon_bucket",
+  "description": {
+    "translate": "trim_pattern.minecraft.salmon_bucket"
+  },
+  "template_item": "minecraft:salmon_bucket"
+}

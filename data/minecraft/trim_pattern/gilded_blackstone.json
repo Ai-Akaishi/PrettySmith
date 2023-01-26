@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:gilded_blackstone",
+  "description": {
+    "translate": "trim_pattern.minecraft.gilded_blackstone"
+  },
+  "template_item": "minecraft:gilded_blackstone"
+}

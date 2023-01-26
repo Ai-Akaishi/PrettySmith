@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:leather_chestplate",
+  "description": {
+    "translate": "trim_pattern.minecraft.leather_chestplate"
+  },
+  "template_item": "minecraft:leather_chestplate"
+}

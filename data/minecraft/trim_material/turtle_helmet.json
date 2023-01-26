@@ -1,0 +1,9 @@
+{
+  "asset_name": "turtle_helmet",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.turtle_helmet"
+  },
+  "ingredient": "minecraft:turtle_helmet",
+  "item_model_index": 1.0
+}

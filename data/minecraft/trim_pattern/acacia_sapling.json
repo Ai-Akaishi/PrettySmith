@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:acacia_sapling",
+  "description": {
+    "translate": "trim_pattern.minecraft.acacia_sapling"
+  },
+  "template_item": "minecraft:acacia_sapling"
+}

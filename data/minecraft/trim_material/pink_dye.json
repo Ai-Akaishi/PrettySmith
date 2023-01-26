@@ -1,0 +1,9 @@
+{
+  "asset_name": "pink_dye",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.pink_dye"
+  },
+  "ingredient": "minecraft:pink_dye",
+  "item_model_index": 1.0
+}

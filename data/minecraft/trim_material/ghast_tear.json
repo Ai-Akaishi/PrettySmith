@@ -1,0 +1,9 @@
+{
+  "asset_name": "ghast_tear",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.ghast_tear"
+  },
+  "ingredient": "minecraft:ghast_tear",
+  "item_model_index": 1.0
+}

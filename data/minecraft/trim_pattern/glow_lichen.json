@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:glow_lichen",
+  "description": {
+    "translate": "trim_pattern.minecraft.glow_lichen"
+  },
+  "template_item": "minecraft:glow_lichen"
+}

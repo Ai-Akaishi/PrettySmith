@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:crimson_fence_gate",
+  "description": {
+    "translate": "trim_pattern.minecraft.crimson_fence_gate"
+  },
+  "template_item": "minecraft:crimson_fence_gate"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "activator_rail",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.activator_rail"
+  },
+  "ingredient": "minecraft:activator_rail",
+  "item_model_index": 1.0
+}

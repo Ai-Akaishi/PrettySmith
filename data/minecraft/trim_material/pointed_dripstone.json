@@ -1,0 +1,9 @@
+{
+  "asset_name": "pointed_dripstone",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.pointed_dripstone"
+  },
+  "ingredient": "minecraft:pointed_dripstone",
+  "item_model_index": 1.0
+}

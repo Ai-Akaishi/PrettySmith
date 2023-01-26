@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:brewing_stand",
+  "description": {
+    "translate": "trim_pattern.minecraft.brewing_stand"
+  },
+  "template_item": "minecraft:brewing_stand"
+}

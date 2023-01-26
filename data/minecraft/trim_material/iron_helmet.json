@@ -1,0 +1,9 @@
+{
+  "asset_name": "iron_helmet",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.iron_helmet"
+  },
+  "ingredient": "minecraft:iron_helmet",
+  "item_model_index": 1.0
+}

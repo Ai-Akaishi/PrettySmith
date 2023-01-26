@@ -1,0 +1,9 @@
+{
+  "asset_name": "lime_stained_glass_pane",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.lime_stained_glass_pane"
+  },
+  "ingredient": "minecraft:lime_stained_glass_pane",
+  "item_model_index": 1.0
+}

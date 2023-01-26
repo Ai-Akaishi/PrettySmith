@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:pink_carpet",
+  "description": {
+    "translate": "trim_pattern.minecraft.pink_carpet"
+  },
+  "template_item": "minecraft:pink_carpet"
+}

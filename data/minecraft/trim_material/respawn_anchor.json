@@ -1,0 +1,9 @@
+{
+  "asset_name": "respawn_anchor",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.respawn_anchor"
+  },
+  "ingredient": "minecraft:respawn_anchor",
+  "item_model_index": 1.0
+}

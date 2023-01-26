@@ -1,0 +1,9 @@
+{
+  "asset_name": "repeater",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.repeater"
+  },
+  "ingredient": "minecraft:repeater",
+  "item_model_index": 1.0
+}

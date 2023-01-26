@@ -1,0 +1,9 @@
+{
+  "asset_name": "brown_concrete",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.brown_concrete"
+  },
+  "ingredient": "minecraft:brown_concrete",
+  "item_model_index": 1.0
+}

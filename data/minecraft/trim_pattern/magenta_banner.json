@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:magenta_banner",
+  "description": {
+    "translate": "trim_pattern.minecraft.magenta_banner"
+  },
+  "template_item": "minecraft:magenta_banner"
+}

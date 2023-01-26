@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:waxed_oxidized_copper",
+  "description": {
+    "translate": "trim_pattern.minecraft.waxed_oxidized_copper"
+  },
+  "template_item": "minecraft:waxed_oxidized_copper"
+}

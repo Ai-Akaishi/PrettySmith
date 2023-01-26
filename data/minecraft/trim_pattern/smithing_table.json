@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:smithing_table",
+  "description": {
+    "translate": "trim_pattern.minecraft.smithing_table"
+  },
+  "template_item": "minecraft:smithing_table"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:enchanted_book",
+  "description": {
+    "translate": "trim_pattern.minecraft.enchanted_book"
+  },
+  "template_item": "minecraft:enchanted_book"
+}

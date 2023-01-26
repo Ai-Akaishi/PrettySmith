@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:acacia_log",
+  "description": {
+    "translate": "trim_pattern.minecraft.acacia_log"
+  },
+  "template_item": "minecraft:acacia_log"
+}

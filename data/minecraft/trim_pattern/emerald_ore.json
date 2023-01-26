@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:emerald_ore",
+  "description": {
+    "translate": "trim_pattern.minecraft.emerald_ore"
+  },
+  "template_item": "minecraft:emerald_ore"
+}

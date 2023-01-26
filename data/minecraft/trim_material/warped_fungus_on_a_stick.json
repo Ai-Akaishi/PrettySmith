@@ -1,0 +1,9 @@
+{
+  "asset_name": "warped_fungus_on_a_stick",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.warped_fungus_on_a_stick"
+  },
+  "ingredient": "minecraft:warped_fungus_on_a_stick",
+  "item_model_index": 1.0
+}

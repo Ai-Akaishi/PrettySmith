@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:diorite_wall",
+  "description": {
+    "translate": "trim_pattern.minecraft.diorite_wall"
+  },
+  "template_item": "minecraft:diorite_wall"
+}

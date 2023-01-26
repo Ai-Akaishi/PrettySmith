@@ -1,0 +1,9 @@
+{
+  "asset_name": "lapis_block",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.lapis_block"
+  },
+  "ingredient": "minecraft:lapis_block",
+  "item_model_index": 1.0
+}

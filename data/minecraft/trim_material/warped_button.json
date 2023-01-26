@@ -1,0 +1,9 @@
+{
+  "asset_name": "warped_button",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.warped_button"
+  },
+  "ingredient": "minecraft:warped_button",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "green_candle",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.green_candle"
+  },
+  "ingredient": "minecraft:green_candle",
+  "item_model_index": 1.0
+}

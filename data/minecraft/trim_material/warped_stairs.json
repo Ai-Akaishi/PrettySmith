@@ -1,0 +1,9 @@
+{
+  "asset_name": "warped_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.warped_stairs"
+  },
+  "ingredient": "minecraft:warped_stairs",
+  "item_model_index": 1.0
+}

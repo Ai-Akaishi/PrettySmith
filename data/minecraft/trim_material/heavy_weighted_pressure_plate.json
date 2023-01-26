@@ -1,0 +1,9 @@
+{
+  "asset_name": "heavy_weighted_pressure_plate",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.heavy_weighted_pressure_plate"
+  },
+  "ingredient": "minecraft:heavy_weighted_pressure_plate",
+  "item_model_index": 1.0
+}

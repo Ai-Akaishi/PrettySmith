@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:wooden_axe",
+  "description": {
+    "translate": "trim_pattern.minecraft.wooden_axe"
+  },
+  "template_item": "minecraft:wooden_axe"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:scaffolding",
+  "description": {
+    "translate": "trim_pattern.minecraft.scaffolding"
+  },
+  "template_item": "minecraft:scaffolding"
+}

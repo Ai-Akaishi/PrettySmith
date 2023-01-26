@@ -1,0 +1,9 @@
+{
+  "asset_name": "music_disc_strad",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.music_disc_strad"
+  },
+  "ingredient": "minecraft:music_disc_strad",
+  "item_model_index": 1.0
+}

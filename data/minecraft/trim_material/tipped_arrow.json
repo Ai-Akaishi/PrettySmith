@@ -1,0 +1,9 @@
+{
+  "asset_name": "tipped_arrow",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.tipped_arrow"
+  },
+  "ingredient": "minecraft:tipped_arrow",
+  "item_model_index": 1.0
+}

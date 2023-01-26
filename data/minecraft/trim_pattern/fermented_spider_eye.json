@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:fermented_spider_eye",
+  "description": {
+    "translate": "trim_pattern.minecraft.fermented_spider_eye"
+  },
+  "template_item": "minecraft:fermented_spider_eye"
+}

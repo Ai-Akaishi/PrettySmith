@@ -1,0 +1,9 @@
+{
+  "asset_name": "deepslate_brick_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.deepslate_brick_stairs"
+  },
+  "ingredient": "minecraft:deepslate_brick_stairs",
+  "item_model_index": 1.0
+}

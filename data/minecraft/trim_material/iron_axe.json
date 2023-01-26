@@ -1,0 +1,9 @@
+{
+  "asset_name": "iron_axe",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.iron_axe"
+  },
+  "ingredient": "minecraft:iron_axe",
+  "item_model_index": 1.0
+}

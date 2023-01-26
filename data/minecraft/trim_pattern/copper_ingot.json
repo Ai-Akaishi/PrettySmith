@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:copper_ingot",
+  "description": {
+    "translate": "trim_pattern.minecraft.copper_ingot"
+  },
+  "template_item": "minecraft:copper_ingot"
+}

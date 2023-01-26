@@ -1,0 +1,9 @@
+{
+  "asset_name": "quartz_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.quartz_stairs"
+  },
+  "ingredient": "minecraft:quartz_stairs",
+  "item_model_index": 1.0
+}

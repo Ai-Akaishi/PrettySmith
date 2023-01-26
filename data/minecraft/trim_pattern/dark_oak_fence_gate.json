@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:dark_oak_fence_gate",
+  "description": {
+    "translate": "trim_pattern.minecraft.dark_oak_fence_gate"
+  },
+  "template_item": "minecraft:dark_oak_fence_gate"
+}

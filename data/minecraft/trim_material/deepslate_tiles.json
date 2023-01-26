@@ -1,0 +1,9 @@
+{
+  "asset_name": "deepslate_tiles",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.deepslate_tiles"
+  },
+  "ingredient": "minecraft:deepslate_tiles",
+  "item_model_index": 1.0
+}

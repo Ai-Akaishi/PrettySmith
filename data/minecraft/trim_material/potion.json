@@ -1,0 +1,9 @@
+{
+  "asset_name": "potion",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.potion"
+  },
+  "ingredient": "minecraft:potion",
+  "item_model_index": 1.0
+}

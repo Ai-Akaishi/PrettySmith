@@ -1,0 +1,9 @@
+{
+  "asset_name": "clay_ball",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.clay_ball"
+  },
+  "ingredient": "minecraft:clay_ball",
+  "item_model_index": 1.0
+}

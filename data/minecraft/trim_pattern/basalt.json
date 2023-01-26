@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:basalt",
+  "description": {
+    "translate": "trim_pattern.minecraft.basalt"
+  },
+  "template_item": "minecraft:basalt"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:pink_shulker_box",
+  "description": {
+    "translate": "trim_pattern.minecraft.pink_shulker_box"
+  },
+  "template_item": "minecraft:pink_shulker_box"
+}

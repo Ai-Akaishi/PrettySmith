@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:jungle_leaves",
+  "description": {
+    "translate": "trim_pattern.minecraft.jungle_leaves"
+  },
+  "template_item": "minecraft:jungle_leaves"
+}

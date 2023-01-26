@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:budding_amethyst",
+  "description": {
+    "translate": "trim_pattern.minecraft.budding_amethyst"
+  },
+  "template_item": "minecraft:budding_amethyst"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "stripped_dark_oak_log",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.stripped_dark_oak_log"
+  },
+  "ingredient": "minecraft:stripped_dark_oak_log",
+  "item_model_index": 1.0
+}

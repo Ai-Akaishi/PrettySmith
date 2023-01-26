@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:redstone_ore",
+  "description": {
+    "translate": "trim_pattern.minecraft.redstone_ore"
+  },
+  "template_item": "minecraft:redstone_ore"
+}

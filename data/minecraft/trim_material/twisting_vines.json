@@ -1,0 +1,9 @@
+{
+  "asset_name": "twisting_vines",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.twisting_vines"
+  },
+  "ingredient": "minecraft:twisting_vines",
+  "item_model_index": 1.0
+}

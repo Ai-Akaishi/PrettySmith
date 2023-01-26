@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:waxed_weathered_cut_copper_slab",
+  "description": {
+    "translate": "trim_pattern.minecraft.waxed_weathered_cut_copper_slab"
+  },
+  "template_item": "minecraft:waxed_weathered_cut_copper_slab"
+}

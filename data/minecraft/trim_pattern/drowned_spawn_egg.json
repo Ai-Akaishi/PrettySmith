@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:drowned_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.drowned_spawn_egg"
+  },
+  "template_item": "minecraft:drowned_spawn_egg"
+}

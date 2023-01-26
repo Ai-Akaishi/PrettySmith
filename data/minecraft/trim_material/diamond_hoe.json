@@ -1,0 +1,9 @@
+{
+  "asset_name": "diamond_hoe",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.diamond_hoe"
+  },
+  "ingredient": "minecraft:diamond_hoe",
+  "item_model_index": 1.0
+}

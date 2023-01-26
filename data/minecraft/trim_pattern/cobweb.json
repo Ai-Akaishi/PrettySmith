@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cobweb",
+  "description": {
+    "translate": "trim_pattern.minecraft.cobweb"
+  },
+  "template_item": "minecraft:cobweb"
+}

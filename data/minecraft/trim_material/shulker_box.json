@@ -1,0 +1,9 @@
+{
+  "asset_name": "shulker_box",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.shulker_box"
+  },
+  "ingredient": "minecraft:shulker_box",
+  "item_model_index": 1.0
+}

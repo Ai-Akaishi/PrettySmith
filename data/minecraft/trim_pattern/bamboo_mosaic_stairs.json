@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bamboo_mosaic_stairs",
+  "description": {
+    "translate": "trim_pattern.minecraft.bamboo_mosaic_stairs"
+  },
+  "template_item": "minecraft:bamboo_mosaic_stairs"
+}

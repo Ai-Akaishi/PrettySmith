@@ -1,0 +1,9 @@
+{
+  "asset_name": "cyan_dye",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cyan_dye"
+  },
+  "ingredient": "minecraft:cyan_dye",
+  "item_model_index": 1.0
+}

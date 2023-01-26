@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:infested_stone",
+  "description": {
+    "translate": "trim_pattern.minecraft.infested_stone"
+  },
+  "template_item": "minecraft:infested_stone"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "light_gray_wool",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.light_gray_wool"
+  },
+  "ingredient": "minecraft:light_gray_wool",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:golden_carrot",
+  "description": {
+    "translate": "trim_pattern.minecraft.golden_carrot"
+  },
+  "template_item": "minecraft:golden_carrot"
+}

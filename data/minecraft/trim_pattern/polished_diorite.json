@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:polished_diorite",
+  "description": {
+    "translate": "trim_pattern.minecraft.polished_diorite"
+  },
+  "template_item": "minecraft:polished_diorite"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:blaze_rod",
+  "description": {
+    "translate": "trim_pattern.minecraft.blaze_rod"
+  },
+  "template_item": "minecraft:blaze_rod"
+}

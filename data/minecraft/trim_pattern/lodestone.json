@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:lodestone",
+  "description": {
+    "translate": "trim_pattern.minecraft.lodestone"
+  },
+  "template_item": "minecraft:lodestone"
+}

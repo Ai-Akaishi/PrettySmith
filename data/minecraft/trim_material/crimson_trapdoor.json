@@ -1,0 +1,9 @@
+{
+  "asset_name": "crimson_trapdoor",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.crimson_trapdoor"
+  },
+  "ingredient": "minecraft:crimson_trapdoor",
+  "item_model_index": 1.0
+}

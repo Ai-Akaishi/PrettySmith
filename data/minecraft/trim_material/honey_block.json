@@ -1,0 +1,9 @@
+{
+  "asset_name": "honey_block",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.honey_block"
+  },
+  "ingredient": "minecraft:honey_block",
+  "item_model_index": 1.0
+}

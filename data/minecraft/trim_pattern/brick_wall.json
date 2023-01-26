@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:brick_wall",
+  "description": {
+    "translate": "trim_pattern.minecraft.brick_wall"
+  },
+  "template_item": "minecraft:brick_wall"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "mud",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.mud"
+  },
+  "ingredient": "minecraft:mud",
+  "item_model_index": 1.0
+}

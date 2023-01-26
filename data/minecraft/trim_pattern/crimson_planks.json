@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:crimson_planks",
+  "description": {
+    "translate": "trim_pattern.minecraft.crimson_planks"
+  },
+  "template_item": "minecraft:crimson_planks"
+}

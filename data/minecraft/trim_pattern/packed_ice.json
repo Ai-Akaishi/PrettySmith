@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:packed_ice",
+  "description": {
+    "translate": "trim_pattern.minecraft.packed_ice"
+  },
+  "template_item": "minecraft:packed_ice"
+}

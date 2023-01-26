@@ -1,0 +1,9 @@
+{
+  "asset_name": "axolotl_bucket",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.axolotl_bucket"
+  },
+  "ingredient": "minecraft:axolotl_bucket",
+  "item_model_index": 1.0
+}

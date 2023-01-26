@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bread",
+  "description": {
+    "translate": "trim_pattern.minecraft.bread"
+  },
+  "template_item": "minecraft:bread"
+}

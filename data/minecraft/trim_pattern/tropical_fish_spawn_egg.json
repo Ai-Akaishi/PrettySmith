@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:tropical_fish_spawn_egg",
+  "description": {
+    "translate": "trim_pattern.minecraft.tropical_fish_spawn_egg"
+  },
+  "template_item": "minecraft:tropical_fish_spawn_egg"
+}

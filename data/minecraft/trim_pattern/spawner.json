@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:spawner",
+  "description": {
+    "translate": "trim_pattern.minecraft.spawner"
+  },
+  "template_item": "minecraft:spawner"
+}

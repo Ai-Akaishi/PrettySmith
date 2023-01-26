@@ -1,0 +1,9 @@
+{
+  "asset_name": "soul_campfire",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.soul_campfire"
+  },
+  "ingredient": "minecraft:soul_campfire",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:fishing_rod",
+  "description": {
+    "translate": "trim_pattern.minecraft.fishing_rod"
+  },
+  "template_item": "minecraft:fishing_rod"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:chiseled_bookshelf",
+  "description": {
+    "translate": "trim_pattern.minecraft.chiseled_bookshelf"
+  },
+  "template_item": "minecraft:chiseled_bookshelf"
+}

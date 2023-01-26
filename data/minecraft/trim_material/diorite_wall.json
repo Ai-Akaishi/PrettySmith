@@ -1,0 +1,9 @@
+{
+  "asset_name": "diorite_wall",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.diorite_wall"
+  },
+  "ingredient": "minecraft:diorite_wall",
+  "item_model_index": 1.0
+}

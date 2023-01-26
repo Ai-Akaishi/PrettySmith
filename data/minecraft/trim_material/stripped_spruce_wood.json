@@ -1,0 +1,9 @@
+{
+  "asset_name": "stripped_spruce_wood",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.stripped_spruce_wood"
+  },
+  "ingredient": "minecraft:stripped_spruce_wood",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:stone_pickaxe",
+  "description": {
+    "translate": "trim_pattern.minecraft.stone_pickaxe"
+  },
+  "template_item": "minecraft:stone_pickaxe"
+}

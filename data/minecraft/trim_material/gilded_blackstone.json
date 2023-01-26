@@ -1,0 +1,9 @@
+{
+  "asset_name": "gilded_blackstone",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.gilded_blackstone"
+  },
+  "ingredient": "minecraft:gilded_blackstone",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:amethyst_shard",
+  "description": {
+    "translate": "trim_pattern.minecraft.amethyst_shard"
+  },
+  "template_item": "minecraft:amethyst_shard"
+}

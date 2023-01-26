@@ -1,0 +1,9 @@
+{
+  "asset_name": "birch_fence",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.birch_fence"
+  },
+  "ingredient": "minecraft:birch_fence",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:diorite_slab",
+  "description": {
+    "translate": "trim_pattern.minecraft.diorite_slab"
+  },
+  "template_item": "minecraft:diorite_slab"
+}

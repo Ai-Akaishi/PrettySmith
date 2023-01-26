@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:mangrove_leaves",
+  "description": {
+    "translate": "trim_pattern.minecraft.mangrove_leaves"
+  },
+  "template_item": "minecraft:mangrove_leaves"
+}

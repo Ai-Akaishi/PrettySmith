@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:iron_trapdoor",
+  "description": {
+    "translate": "trim_pattern.minecraft.iron_trapdoor"
+  },
+  "template_item": "minecraft:iron_trapdoor"
+}

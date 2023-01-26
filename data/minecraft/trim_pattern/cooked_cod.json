@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cooked_cod",
+  "description": {
+    "translate": "trim_pattern.minecraft.cooked_cod"
+  },
+  "template_item": "minecraft:cooked_cod"
+}

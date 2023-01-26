@@ -1,0 +1,9 @@
+{
+  "asset_name": "warped_fence",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.warped_fence"
+  },
+  "ingredient": "minecraft:warped_fence",
+  "item_model_index": 1.0
+}

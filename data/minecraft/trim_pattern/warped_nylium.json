@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:warped_nylium",
+  "description": {
+    "translate": "trim_pattern.minecraft.warped_nylium"
+  },
+  "template_item": "minecraft:warped_nylium"
+}

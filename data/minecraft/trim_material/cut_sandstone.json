@@ -1,0 +1,9 @@
+{
+  "asset_name": "cut_sandstone",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cut_sandstone"
+  },
+  "ingredient": "minecraft:cut_sandstone",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:tall_grass",
+  "description": {
+    "translate": "trim_pattern.minecraft.tall_grass"
+  },
+  "template_item": "minecraft:tall_grass"
+}

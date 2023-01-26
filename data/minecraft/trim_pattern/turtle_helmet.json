@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:turtle_helmet",
+  "description": {
+    "translate": "trim_pattern.minecraft.turtle_helmet"
+  },
+  "template_item": "minecraft:turtle_helmet"
+}

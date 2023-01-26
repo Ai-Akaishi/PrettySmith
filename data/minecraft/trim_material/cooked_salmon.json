@@ -1,0 +1,9 @@
+{
+  "asset_name": "cooked_salmon",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cooked_salmon"
+  },
+  "ingredient": "minecraft:cooked_salmon",
+  "item_model_index": 1.0
+}

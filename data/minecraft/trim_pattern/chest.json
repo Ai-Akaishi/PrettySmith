@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:chest",
+  "description": {
+    "translate": "trim_pattern.minecraft.chest"
+  },
+  "template_item": "minecraft:chest"
+}

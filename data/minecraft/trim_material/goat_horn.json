@@ -1,0 +1,9 @@
+{
+  "asset_name": "goat_horn",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.goat_horn"
+  },
+  "ingredient": "minecraft:goat_horn",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "polished_blackstone",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.polished_blackstone"
+  },
+  "ingredient": "minecraft:polished_blackstone",
+  "item_model_index": 1.0
+}

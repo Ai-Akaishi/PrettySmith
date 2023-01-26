@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bamboo_fence_gate",
+  "description": {
+    "translate": "trim_pattern.minecraft.bamboo_fence_gate"
+  },
+  "template_item": "minecraft:bamboo_fence_gate"
+}

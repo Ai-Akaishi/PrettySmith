@@ -1,0 +1,9 @@
+{
+  "asset_name": "pumpkin_pie",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.pumpkin_pie"
+  },
+  "ingredient": "minecraft:pumpkin_pie",
+  "item_model_index": 1.0
+}

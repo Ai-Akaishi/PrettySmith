@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:glass_bottle",
+  "description": {
+    "translate": "trim_pattern.minecraft.glass_bottle"
+  },
+  "template_item": "minecraft:glass_bottle"
+}

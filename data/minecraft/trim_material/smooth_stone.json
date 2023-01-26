@@ -1,0 +1,9 @@
+{
+  "asset_name": "smooth_stone",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.smooth_stone"
+  },
+  "ingredient": "minecraft:smooth_stone",
+  "item_model_index": 1.0
+}

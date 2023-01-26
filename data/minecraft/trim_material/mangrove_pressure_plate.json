@@ -1,0 +1,9 @@
+{
+  "asset_name": "mangrove_pressure_plate",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.mangrove_pressure_plate"
+  },
+  "ingredient": "minecraft:mangrove_pressure_plate",
+  "item_model_index": 1.0
+}

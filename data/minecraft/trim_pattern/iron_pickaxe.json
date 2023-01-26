@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:iron_pickaxe",
+  "description": {
+    "translate": "trim_pattern.minecraft.iron_pickaxe"
+  },
+  "template_item": "minecraft:iron_pickaxe"
+}

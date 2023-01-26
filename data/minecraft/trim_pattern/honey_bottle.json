@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:honey_bottle",
+  "description": {
+    "translate": "trim_pattern.minecraft.honey_bottle"
+  },
+  "template_item": "minecraft:honey_bottle"
+}

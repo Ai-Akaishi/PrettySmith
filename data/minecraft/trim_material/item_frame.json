@@ -1,0 +1,9 @@
+{
+  "asset_name": "item_frame",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.item_frame"
+  },
+  "ingredient": "minecraft:item_frame",
+  "item_model_index": 1.0
+}

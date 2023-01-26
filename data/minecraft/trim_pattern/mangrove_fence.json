@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:mangrove_fence",
+  "description": {
+    "translate": "trim_pattern.minecraft.mangrove_fence"
+  },
+  "template_item": "minecraft:mangrove_fence"
+}

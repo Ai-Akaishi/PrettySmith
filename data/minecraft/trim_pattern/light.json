@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:light",
+  "description": {
+    "translate": "trim_pattern.minecraft.light"
+  },
+  "template_item": "minecraft:light"
+}

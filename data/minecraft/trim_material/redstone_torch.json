@@ -1,0 +1,9 @@
+{
+  "asset_name": "redstone_torch",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.redstone_torch"
+  },
+  "ingredient": "minecraft:redstone_torch",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "sandstone_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.sandstone_stairs"
+  },
+  "ingredient": "minecraft:sandstone_stairs",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:oak_trapdoor",
+  "description": {
+    "translate": "trim_pattern.minecraft.oak_trapdoor"
+  },
+  "template_item": "minecraft:oak_trapdoor"
+}

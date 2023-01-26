@@ -1,0 +1,9 @@
+{
+  "asset_name": "orange_wool",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.orange_wool"
+  },
+  "ingredient": "minecraft:orange_wool",
+  "item_model_index": 1.0
+}

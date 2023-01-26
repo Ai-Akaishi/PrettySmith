@@ -1,0 +1,9 @@
+{
+  "asset_name": "blue_ice",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.blue_ice"
+  },
+  "ingredient": "minecraft:blue_ice",
+  "item_model_index": 1.0
+}

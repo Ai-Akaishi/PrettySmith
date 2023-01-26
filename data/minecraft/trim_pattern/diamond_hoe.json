@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:diamond_hoe",
+  "description": {
+    "translate": "trim_pattern.minecraft.diamond_hoe"
+  },
+  "template_item": "minecraft:diamond_hoe"
+}

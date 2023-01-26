@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:gray_dye",
+  "description": {
+    "translate": "trim_pattern.minecraft.gray_dye"
+  },
+  "template_item": "minecraft:gray_dye"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:scute",
+  "description": {
+    "translate": "trim_pattern.minecraft.scute"
+  },
+  "template_item": "minecraft:scute"
+}

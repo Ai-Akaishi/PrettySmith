@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cobbled_deepslate_wall",
+  "description": {
+    "translate": "trim_pattern.minecraft.cobbled_deepslate_wall"
+  },
+  "template_item": "minecraft:cobbled_deepslate_wall"
+}

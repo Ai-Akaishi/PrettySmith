@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cooked_rabbit",
+  "description": {
+    "translate": "trim_pattern.minecraft.cooked_rabbit"
+  },
+  "template_item": "minecraft:cooked_rabbit"
+}

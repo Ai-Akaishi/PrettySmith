@@ -1,0 +1,9 @@
+{
+  "asset_name": "diamond_chestplate",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.diamond_chestplate"
+  },
+  "ingredient": "minecraft:diamond_chestplate",
+  "item_model_index": 1.0
+}

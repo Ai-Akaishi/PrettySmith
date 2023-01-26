@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bowl",
+  "description": {
+    "translate": "trim_pattern.minecraft.bowl"
+  },
+  "template_item": "minecraft:bowl"
+}

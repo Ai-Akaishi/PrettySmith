@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:crimson_slab",
+  "description": {
+    "translate": "trim_pattern.minecraft.crimson_slab"
+  },
+  "template_item": "minecraft:crimson_slab"
+}

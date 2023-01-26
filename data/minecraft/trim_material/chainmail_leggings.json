@@ -1,0 +1,9 @@
+{
+  "asset_name": "chainmail_leggings",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.chainmail_leggings"
+  },
+  "ingredient": "minecraft:chainmail_leggings",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:magenta_concrete_powder",
+  "description": {
+    "translate": "trim_pattern.minecraft.magenta_concrete_powder"
+  },
+  "template_item": "minecraft:magenta_concrete_powder"
+}

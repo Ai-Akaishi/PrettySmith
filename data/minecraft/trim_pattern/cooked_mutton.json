@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:cooked_mutton",
+  "description": {
+    "translate": "trim_pattern.minecraft.cooked_mutton"
+  },
+  "template_item": "minecraft:cooked_mutton"
+}

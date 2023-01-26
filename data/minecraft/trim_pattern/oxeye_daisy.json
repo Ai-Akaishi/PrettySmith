@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:oxeye_daisy",
+  "description": {
+    "translate": "trim_pattern.minecraft.oxeye_daisy"
+  },
+  "template_item": "minecraft:oxeye_daisy"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "jungle_planks",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.jungle_planks"
+  },
+  "ingredient": "minecraft:jungle_planks",
+  "item_model_index": 1.0
+}

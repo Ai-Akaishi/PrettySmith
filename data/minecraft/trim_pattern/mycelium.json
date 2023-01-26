@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:mycelium",
+  "description": {
+    "translate": "trim_pattern.minecraft.mycelium"
+  },
+  "template_item": "minecraft:mycelium"
+}

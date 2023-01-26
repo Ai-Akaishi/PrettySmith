@@ -1,0 +1,9 @@
+{
+  "asset_name": "sticky_piston",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.sticky_piston"
+  },
+  "ingredient": "minecraft:sticky_piston",
+  "item_model_index": 1.0
+}

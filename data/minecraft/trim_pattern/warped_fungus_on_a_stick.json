@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:warped_fungus_on_a_stick",
+  "description": {
+    "translate": "trim_pattern.minecraft.warped_fungus_on_a_stick"
+  },
+  "template_item": "minecraft:warped_fungus_on_a_stick"
+}

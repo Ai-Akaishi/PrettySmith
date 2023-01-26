@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:stone_slab",
+  "description": {
+    "translate": "trim_pattern.minecraft.stone_slab"
+  },
+  "template_item": "minecraft:stone_slab"
+}

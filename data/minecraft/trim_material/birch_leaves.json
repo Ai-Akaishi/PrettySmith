@@ -1,0 +1,9 @@
+{
+  "asset_name": "birch_leaves",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.birch_leaves"
+  },
+  "ingredient": "minecraft:birch_leaves",
+  "item_model_index": 1.0
+}

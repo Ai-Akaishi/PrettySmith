@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:beetroot_soup",
+  "description": {
+    "translate": "trim_pattern.minecraft.beetroot_soup"
+  },
+  "template_item": "minecraft:beetroot_soup"
+}

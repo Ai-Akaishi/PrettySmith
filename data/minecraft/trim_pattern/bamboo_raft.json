@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:bamboo_raft",
+  "description": {
+    "translate": "trim_pattern.minecraft.bamboo_raft"
+  },
+  "template_item": "minecraft:bamboo_raft"
+}

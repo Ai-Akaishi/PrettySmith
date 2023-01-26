@@ -1,0 +1,9 @@
+{
+  "asset_name": "jungle_stairs",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.jungle_stairs"
+  },
+  "ingredient": "minecraft:jungle_stairs",
+  "item_model_index": 1.0
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "rose_bush",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.rose_bush"
+  },
+  "ingredient": "minecraft:rose_bush",
+  "item_model_index": 1.0
+}

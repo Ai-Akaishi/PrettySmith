@@ -1,0 +1,9 @@
+{
+  "asset_name": "cut_copper",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.cut_copper"
+  },
+  "ingredient": "minecraft:cut_copper",
+  "item_model_index": 1.0
+}

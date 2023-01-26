@@ -1,0 +1,9 @@
+{
+  "asset_name": "lapis_ore",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.lapis_ore"
+  },
+  "ingredient": "minecraft:lapis_ore",
+  "item_model_index": 1.0
+}
