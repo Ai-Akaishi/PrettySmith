@@ -7,6 +7,12 @@ This Datapack allows you to create custom crafts on 1.20 blacksmithing tables ea
 
 - 1.20 snapshot(23w04a)
 
+## 一緒に入れてね / Dependencies
+
+Player Item Tuner(<https://github.com/Ai-Akaishi/PlayerItemTuner>)  
+Pretty Crafter(<https://github.com/Ai-Akaishi/PrettyCrafter>)  
+AiMath(<https://github.com/Ai-Akaishi/AiMath>)  
+
 ## 使い方 / How To Use
 
 ### レシピの登録 / Register Recipes
@@ -33,6 +39,7 @@ You can change the "item"s to any item you like!
 ```
   
 ２．完成品とレシピとの関係をコマンドで登録してね。  
+２．Register the recipe and the result item with the commands below.  
   
 ```nim
 # 素材を指定します。 / Specify materials.
